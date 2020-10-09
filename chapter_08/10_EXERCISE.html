@@ -158,11 +158,28 @@
 	   				.attr("transform", "translate(0," + (h - padding) + ")")
 	   				.call(xAxis);
 
+					// text label for the x axis
+				   svg.append("text")
+				       .attr("transform",
+				             "translate(" + (w/2) + " ," +
+				                            (h-5) + ")")
+				       .style("text-anchor", "middle")
+				       .text("Day");
+
 	   			//Create Y axis
 	   			svg.append("g")
 	   				.attr("class", "axis")
 	   				.attr("transform", "translate(" + padding + ",0)")
 	   				.call(yAxis);
+
+					// text label for the y axis
+					  svg.append("text")
+					      .attr("transform", "rotate(-90)")
+					      .attr("y", -5)
+					      .attr("x",0 - (h / 2))
+					      .attr("dy", "1em")
+					      .style("text-anchor", "middle")
+					      .text("Pimples on face");
 
 			});
 
