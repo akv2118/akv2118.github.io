@@ -9,7 +9,7 @@
 			rect:hover {
 				fill: orange;
 			}
-			
+
 			#tooltip {
 				position: absolute;
 				width: 200px;
@@ -24,11 +24,11 @@
 				box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
 				pointer-events: none;
 			}
-			
+
 			#tooltip.hidden {
 				display: none;
 			}
-			
+
 			#tooltip p {
 				margin: 0;
 				font-family: sans-serif;
@@ -48,7 +48,7 @@
 			//Width and height
 			var w = 600;
 			var h = 250;
-			
+
 			var dataset = [ 5, 10, 13, 19, 21, 25, 22, 18, 15, 13,
 							11, 12, 15, 20, 18, 17, 16, 18, 23, 25 ];
 
@@ -60,7 +60,7 @@
 			var yScale = d3.scaleLinear()
 							.domain([0, d3.max(dataset)])
 							.range([0, h]);
-			
+
 			//Create SVG element
 			var svg = d3.select("body")
 						.append("svg")
@@ -85,6 +85,7 @@
 			   .attr("fill", function(d) {
 					return "rgb(0, 0, " + Math.round(d * 10) + ")";
 			   })
+
 			   .on("mouseover", function(d) {
 
 					//Get this bar's x/y values, then augment for the tooltip
@@ -94,19 +95,19 @@
 					//Update the tooltip position and value
 					d3.select("#tooltip")
 						.style("left", xPosition + "px")
-						.style("top", yPosition + "px")						
+						.style("top", yPosition + "px")
 						.select("#value")
 						.text(d);
-			   
+
 					//Show the tooltip
 					d3.select("#tooltip").classed("hidden", false);
 
 			   })
 			   .on("mouseout", function() {
-			   
+
 					//Hide the tooltip
 					d3.select("#tooltip").classed("hidden", true);
-					
+
 			   })
 			   .on("click", function() {
 			   		sortBars();
@@ -114,7 +115,7 @@
 
 			//Define sort order flag
 			var sortOrder = false;
-			
+
 			//Define sort function
 			var sortBars = function() {
 
@@ -138,8 +139,8 @@
 				   		return xScale(i);
 				   });
 
-			};			
-			
+			};
+
 		</script>
 	</body>
 </html>
