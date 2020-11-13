@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="134" height="226" viewBox="0 0 134 226">
+  <g>
+    <text transform="translate(58.85 40.29)" style="font-size: 14px;font-family: HelveticaNeue, Helvetica Neue">Me</text>
+    <text transform="translate(59.94 89.41)" style="font-size: 14px;font-family: HelveticaNeue, Helvetica Neue">Litterbox</text>
+    <text transform="translate(59.94 140.38)" style="font-size: 14px;font-family: HelveticaNeue, Helvetica Neue">Food</text>
+    <text transform="translate(59.94 175.46)" style="font-size: 14px;font-family: HelveticaNeue, Helvetica Neue">Poop</text>
+    <text transform="translate(59.94 207.99)" style="font-size: 14px;font-family: HelveticaNeue, Helvetica Neue">Pee</text>
+  </g>
+  <g>
+    <rect x="28.07" y="164.83" width="8.81" height="8.81"/>
+    <rect x="21.14" y="69.52" width="22.68" height="29.1" transform="translate(-20.8 12.38) rotate(-15.11)" style="fill: #fff;stroke: #000;stroke-miterlimit: 10"/>
+    <g>
+      <line x1="44.04" y1="46.76" x2="20.91" y2="23.63" style="fill: none;stroke: #000;stroke-miterlimit: 10"/>
+      <line x1="44.04" y1="23.63" x2="20.91" y2="46.76" style="fill: none;stroke: #000;stroke-miterlimit: 10"/>
+    </g>
+    <circle cx="32.48" cy="203.06" r="3.93" style="fill: #fff;stroke: #000;stroke-miterlimit: 10"/>
+  </g>
+  <g>
+    <polyline points="32.48 138.83 28.23 130.33 36.73 130.33"/>
+    <rect x="0.5" y="0.5" width="133" height="225" style="fill: none;stroke: #000;stroke-miterlimit: 10"/>
+  </g>
+</svg>

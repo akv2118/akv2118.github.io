@@ -1,0 +1,1193 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="901" height="701" viewBox="0 0 901 701">
+  <defs>
+    <style>
+      .a495c946-d4b6-4908-bf52-a3c9349d9303, .a618fe70-cc98-45c7-b392-fc4c0f22857e, .abfd164d-20ed-44a4-b62c-3e474ddb397a, .ac2ae66e-27c5-49b3-9b91-30839ebec93d, .b2d3ac6b-0727-4cc9-941b-36a5d24f14cb, .ba300977-5081-4036-94b1-a86612c1d85f, .be05ce88-9219-44b6-a711-8b8d987179ac, .e969813b-a7ec-4b1a-8c58-35f27f3c9a8e, .f905b1bd-87d3-4bc1-87e8-f8e3b14c64b0, .f91f08a6-976d-4e34-b463-305dca09cbcc {
+        fill: none;
+      }
+
+      .f905b1bd-87d3-4bc1-87e8-f8e3b14c64b0, .f91f08a6-976d-4e34-b463-305dca09cbcc {
+        stroke: #000;
+      }
+
+      .f91f08a6-976d-4e34-b463-305dca09cbcc {
+        stroke-miterlimit: 10;
+      }
+
+      .a3bc6b70-1ec4-459d-9e26-e4bf7b9909ad {
+        font-size: 1.76px;
+        fill: #21ffff;
+        font-family: Swis721 LtCn BT;
+      }
+
+      .ba300977-5081-4036-94b1-a86612c1d85f {
+        stroke: #696969;
+      }
+
+      .a495c946-d4b6-4908-bf52-a3c9349d9303, .a618fe70-cc98-45c7-b392-fc4c0f22857e, .abfd164d-20ed-44a4-b62c-3e474ddb397a, .ac2ae66e-27c5-49b3-9b91-30839ebec93d, .b2d3ac6b-0727-4cc9-941b-36a5d24f14cb, .ba300977-5081-4036-94b1-a86612c1d85f, .be05ce88-9219-44b6-a711-8b8d987179ac, .e969813b-a7ec-4b1a-8c58-35f27f3c9a8e, .f905b1bd-87d3-4bc1-87e8-f8e3b14c64b0 {
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 0.25px;
+      }
+
+      .a618fe70-cc98-45c7-b392-fc4c0f22857e, .abfd164d-20ed-44a4-b62c-3e474ddb397a, .ac2ae66e-27c5-49b3-9b91-30839ebec93d, .b2d3ac6b-0727-4cc9-941b-36a5d24f14cb, .be05ce88-9219-44b6-a711-8b8d987179ac, .e969813b-a7ec-4b1a-8c58-35f27f3c9a8e {
+        stroke: #4c4c4c;
+      }
+
+      .a495c946-d4b6-4908-bf52-a3c9349d9303 {
+        stroke: #bebebe;
+      }
+
+      .e969813b-a7ec-4b1a-8c58-35f27f3c9a8e {
+        stroke-dasharray: 3.02 3.02;
+      }
+
+      .abfd164d-20ed-44a4-b62c-3e474ddb397a {
+        stroke-dasharray: 3.03 3.03;
+      }
+
+      .ac2ae66e-27c5-49b3-9b91-30839ebec93d {
+        stroke-dasharray: 3.2 3.2;
+      }
+
+      .be05ce88-9219-44b6-a711-8b8d987179ac {
+        stroke-dasharray: 3.07 3.07;
+      }
+
+      .a618fe70-cc98-45c7-b392-fc4c0f22857e {
+        stroke-dasharray: 3.03 3.03;
+      }
+    </style>
+  </defs>
+  <g id="e92750e0-4934-4a9d-a216-d2373dbe0785" data-name="Layer 143">
+    <rect class="f91f08a6-976d-4e34-b463-305dca09cbcc" x="0.5" y="0.5" width="900" height="700"/>
+  </g>
+  <g id="a0d22fea-001d-4a5b-8b07-4a20ec534b27" data-name="Base">
+    <g id="a6d00ed8-b902-470b-baf7-bcc990d98b97" data-name="Layout$Text">
+      <g id="aa2ccb1a-38ec-4897-af1b-e93084ea61da" data-name="MTEXT">
+        <text class="a3bc6b70-1ec4-459d-9e26-e4bf7b9909ad" transform="translate(759.89 568.13) rotate(-90)">Closet</text>
+        <text class="a3bc6b70-1ec4-459d-9e26-e4bf7b9909ad" transform="translate(761.97 566.05) rotate(-90)">+</text>
+        <text class="a3bc6b70-1ec4-459d-9e26-e4bf7b9909ad" transform="translate(764.05 568.49) rotate(-90)">Ladder</text>
+      </g>
+    </g>
+    <g id="a62010cf-7733-452f-a041-fb253ce8fe4f" data-name="DRAFTING$FOREGROUND">
+      <g id="a2c886a0-9910-470c-9a92-e20442b86907" data-name="POLYLINE">
+        <polyline class="ba300977-5081-4036-94b1-a86612c1d85f" points="682.74 506.2 682.74 506.25 703.56 506.25 703.56 408.01 682.74 408.01 682.74 496.38"/>
+      </g>
+    </g>
+    <g id="bfdd1f20-44e2-474f-aaf8-6e20a89e90f1" data-name="Defpoints">
+      <g id="a1437b19-0acb-43cb-a96f-eca9b40f0ac6" data-name="POINT">
+        <line class="ba300977-5081-4036-94b1-a86612c1d85f" x1="703.98" y1="554" x2="703.98" y2="554"/>
+      </g>
+      <g id="b9e6bf77-9762-478e-b8cc-907ca5fdb35f" data-name="POINT">
+        <line class="ba300977-5081-4036-94b1-a86612c1d85f" x1="807.52" y1="554" x2="807.52" y2="554"/>
+      </g>
+    </g>
+    <g id="a8190b1e-4583-46be-86e4-11128822b7f9" data-name="DRAFTING$A-EXT WALL">
+      <g id="e580b068-3f1a-48a4-ae50-f4f9e08a0c79" data-name="POLYLINE">
+        <rect class="f905b1bd-87d3-4bc1-87e8-f8e3b14c64b0" x="39.63" y="268.09" width="33.29" height="128.35"/>
+      </g>
+      <g id="b7b0f4f3-ce10-45e4-a79e-e9830b10b9b1" data-name="LINE">
+        <line class="f905b1bd-87d3-4bc1-87e8-f8e3b14c64b0" x1="46.53" y1="520.99" x2="46.53" y2="396.44"/>
+      </g>
+      <g id="a5adf10d-b328-4b1c-8b4a-11c45a454be4" data-name="LINE">
+        <line class="f905b1bd-87d3-4bc1-87e8-f8e3b14c64b0" x1="47.31" y1="520.99" x2="47.31" y2="396.44"/>
+      </g>
+      <g id="be1c245a-4afa-46da-98b4-482e5dfe93fb" data-name="LINE">
+        <line class="f905b1bd-87d3-4bc1-87e8-f8e3b14c64b0" x1="46.53" y1="268.09" x2="46.53" y2="141.71"/>
+      </g>
+      <g id="b911fb03-9ea4-4016-9117-e6c108a7dde5" data-name="LINE">
+        <line class="f905b1bd-87d3-4bc1-87e8-f8e3b14c64b0" x1="47.31" y1="268.09" x2="47.31" y2="141.71"/>
+      </g>
+      <g id="a50e1438-97ce-4e91-8e5d-84b88b8a7f58" data-name="POLYLINE">
+        <polyline class="f905b1bd-87d3-4bc1-87e8-f8e3b14c64b0" points="39.63 654.04 39.63 520.99 72.92 520.99 72.92 615.66 682.74 615.66 682.74 506.25 703.98 506.25 703.98 615.66 807.52 615.66 807.52 495.07 829.88 495.07 829.88 515.83 829.88 615.66 838.05 615.66"/>
+        <line class="f905b1bd-87d3-4bc1-87e8-f8e3b14c64b0" x1="838.05" y1="654.04" x2="72.92" y2="654.04"/>
+      </g>
+      <g id="b621b72b-7e12-4f2e-8696-7ed67a7b87ab" data-name="POLYLINE">
+        <polyline class="f905b1bd-87d3-4bc1-87e8-f8e3b14c64b0" points="838.05 408.15 682.74 407.99 682.74 347.07 703.98 347.07 703.98 381.83 800.65 381.83 800.65 223.39 697.97 223.39 697.97 254.83 677.09 254.83 677.09 159.15 699.19 159.15 699.19 204.1 796.72 204.1 796.72 49.1 690.84 49.1 690.84 63.72 668.49 63.72 668.49 48.36 560.04 48.36 560.04 58.07 359.1 58.07 359.1 43.94 72.92 43.94 72.92 141.71 39.63 141.71 39.63 26.87 838.05 26.87"/>
+        <polyline class="f905b1bd-87d3-4bc1-87e8-f8e3b14c64b0" points="838.05 49.1 812.56 49.1 812.56 381.83 838.05 381.83"/>
+      </g>
+      <g id="aa9db9eb-2d1d-472c-80b4-eb68b09006f3" data-name="POLYLINE">
+        <rect class="f905b1bd-87d3-4bc1-87e8-f8e3b14c64b0" x="703.98" y="601.76" width="103.54" height="13.9"/>
+      </g>
+    </g>
+    <g id="b687ed2d-7a93-471e-9f3b-6956957c6471" data-name="Below">
+      <g id="ba806492-8a8c-4933-b7ba-b1b5bbcda2e6" data-name="LINE">
+        <line class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" x1="831.79" y1="515.83" x2="831.79" y2="615.66"/>
+      </g>
+    </g>
+    <g id="ecb0163f-7b84-4a67-9be5-ab01a79d5f52" data-name="Below$DoorSwing">
+      <g id="bb393f01-301a-479c-8266-d92429d8fcc0" data-name="ARC">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M597.48,254.79a92.25,92.25,0,0,0,92.24,91.78" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="b8784510-dd67-4658-901d-a8adfd171871" data-name="ARC">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M594.29,158.17a95.42,95.42,0,0,1,95.43-94.95" transform="translate(0.5 0.5)"/>
+      </g>
+    </g>
+    <g id="b738bac7-3e19-4302-b42c-dd86bdaa0b4a" data-name="Cut$Door">
+      <g id="b632ec4c-8460-4137-96f9-e6a5ffa0ef36" data-name="POLYLINE">
+        <rect class="f905b1bd-87d3-4bc1-87e8-f8e3b14c64b0" x="685.31" y="406.69" width="9.83" height="98.26"/>
+      </g>
+      <g id="a7ae8157-b2ea-4202-8794-aabe5b10967c" data-name="LINE">
+        <line class="f905b1bd-87d3-4bc1-87e8-f8e3b14c64b0" x1="807.52" y1="506.25" x2="760.51" y2="504.61"/>
+      </g>
+      <g id="eb259cd4-87dc-4826-a8c2-d844cc56a235" data-name="LINE">
+        <line class="f905b1bd-87d3-4bc1-87e8-f8e3b14c64b0" x1="703.98" y1="507.08" x2="750.85" y2="502.98"/>
+      </g>
+      <g id="be1936a4-df1e-49dc-bf5b-39736c892c29" data-name="POLYLINE">
+        <rect class="f905b1bd-87d3-4bc1-87e8-f8e3b14c64b0" x="597.52" y="254.83" width="92.7" height="9.27"/>
+      </g>
+      <g id="b15f8b0e-02cb-44ce-a8c8-2ef1deed308d" data-name="POLYLINE">
+        <rect class="f905b1bd-87d3-4bc1-87e8-f8e3b14c64b0" x="594.31" y="149.56" width="95.91" height="9.59"/>
+      </g>
+    </g>
+    <g id="f710269c-2afd-4d23-9ba1-4eb3fe1842f7" data-name="Below$Furniture_Appliance">
+      <g id="af1742f5-83e6-481f-837d-4c19b460c2f0" data-name="CIRCLE">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M439.87,577.08a5.34,5.34,0,1,1,5.34,5.34,5.35,5.35,0,0,1-5.34-5.34Z" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="fe4197e5-601e-46d0-8676-59df2ca12045" data-name="CIRCLE">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M443.39,577.08a1.82,1.82,0,1,1,1.82,1.82,1.83,1.83,0,0,1-1.82-1.82Z" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="ad5b2f74-05f4-42ea-a501-8d369b514fa0" data-name="CIRCLE">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M427.83,567.69a5.34,5.34,0,1,1,5.34,5.34,5.34,5.34,0,0,1-5.34-5.34Z" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="b15ea71e-0f23-4a39-ab00-54617b3ff62e" data-name="CIRCLE">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M431.35,567.69a1.82,1.82,0,1,1,1.82,1.82,1.82,1.82,0,0,1-1.82-1.82Z" transform="translate(0.5 0.5)"/>
+      </g>
+    </g>
+    <g id="ada71193-2009-44f3-abbb-ce5504c2720e" data-name="DRAFTING$BEYOND">
+      <g id="bd27163d-aed7-41a3-af96-23c932d528a3" data-name="POLYLINE">
+        <line class="a495c946-d4b6-4908-bf52-a3c9349d9303" x1="39.63" y1="396.44" x2="39.63" y2="520.99"/>
+      </g>
+      <g id="f30f7b98-9dfe-4c01-bb1f-2673e8984389" data-name="POLYLINE">
+        <line class="a495c946-d4b6-4908-bf52-a3c9349d9303" x1="39.63" y1="268.09" x2="39.63" y2="141.71"/>
+      </g>
+      <g id="bb976181-c124-4c72-be71-8268910350e8" data-name="LINE">
+        <line class="a495c946-d4b6-4908-bf52-a3c9349d9303" x1="50.04" y1="396.44" x2="50.04" y2="520.99"/>
+      </g>
+      <g id="abdc9594-7798-412d-a176-c6ff4bcce97d" data-name="LINE">
+        <line class="a495c946-d4b6-4908-bf52-a3c9349d9303" x1="43.8" y1="396.44" x2="43.8" y2="520.99"/>
+      </g>
+      <g id="e6ac18a4-2434-4750-a5c1-2c255e8bdbb0" data-name="LINE">
+        <line class="a495c946-d4b6-4908-bf52-a3c9349d9303" x1="43.8" y1="141.71" x2="43.8" y2="268.09"/>
+      </g>
+      <g id="bf61fd54-f03a-4875-91ce-5227873e9292" data-name="LINE">
+        <line class="a495c946-d4b6-4908-bf52-a3c9349d9303" x1="50.04" y1="141.71" x2="50.04" y2="268.09"/>
+      </g>
+      <g id="f434ed1f-cb4e-4863-bb4b-7207f7f9b45e" data-name="POLYLINE">
+        <line class="a495c946-d4b6-4908-bf52-a3c9349d9303" x1="53.42" y1="396.44" x2="53.42" y2="520.99"/>
+      </g>
+      <g id="a51f1e12-a1e5-4ba3-ab3e-2d9ef5ae036c" data-name="POLYLINE">
+        <line class="a495c946-d4b6-4908-bf52-a3c9349d9303" x1="53.42" y1="268.09" x2="53.42" y2="141.71"/>
+      </g>
+    </g>
+    <g id="b13f75b8-ab36-43f0-929e-1684487fed21" data-name="Below$Furniture_Appliance$Bed">
+      <g id="b9f1be20-b26d-4293-8ca8-825085e2646f" data-name="POLYLINE">
+        <g>
+          <polyline class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" points="553.16 68.82 553.16 67.32 551.66 67.32"/>
+          <line class="e969813b-a7ec-4b1a-8c58-35f27f3c9a8e" x1="548.64" y1="67.32" x2="368.98" y2="67.32"/>
+          <polyline class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" points="367.48 67.32 365.98 67.32 365.98 68.82"/>
+          <line class="abfd164d-20ed-44a4-b62c-3e474ddb397a" x1="365.98" y1="71.85" x2="365.98" y2="282.68"/>
+          <polyline class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" points="365.98 284.2 365.98 285.7 367.48 285.7"/>
+          <line class="e969813b-a7ec-4b1a-8c58-35f27f3c9a8e" x1="370.49" y1="285.7" x2="550.15" y2="285.7"/>
+          <polyline class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" points="551.66 285.7 553.16 285.7 553.16 284.2"/>
+          <line class="abfd164d-20ed-44a4-b62c-3e474ddb397a" x1="553.16" y1="281.17" x2="553.16" y2="70.34"/>
+        </g>
+      </g>
+      <g id="bd18e29f-80a4-435b-8fb8-4784fe655def" data-name="POLYLINE">
+        <g>
+          <polyline class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" points="537.47 113.39 538.97 113.39 538.97 111.89"/>
+          <line class="ac2ae66e-27c5-49b3-9b91-30839ebec93d" x1="538.97" y1="108.7" x2="538.97" y2="78.34"/>
+          <polyline class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" points="538.97 76.74 538.97 75.24 537.47 75.24"/>
+          <line class="be05ce88-9219-44b6-a711-8b8d987179ac" x1="534.41" y1="75.24" x2="468.42" y2="75.24"/>
+          <polyline class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" points="466.88 75.24 465.38 75.24 465.38 76.74"/>
+          <line class="ac2ae66e-27c5-49b3-9b91-30839ebec93d" x1="465.38" y1="79.94" x2="465.38" y2="110.3"/>
+          <polyline class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" points="465.38 111.89 465.38 113.39 466.88 113.39"/>
+          <line class="be05ce88-9219-44b6-a711-8b8d987179ac" x1="469.95" y1="113.39" x2="535.94" y2="113.39"/>
+        </g>
+      </g>
+      <g id="f8da7f2c-f2d2-4b41-937d-bbee3986911e" data-name="POLYLINE">
+        <g>
+          <polyline class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" points="450.5 113.39 452 113.39 452 111.89"/>
+          <line class="ac2ae66e-27c5-49b3-9b91-30839ebec93d" x1="452" y1="108.7" x2="452" y2="78.34"/>
+          <polyline class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" points="452 76.74 452 75.24 450.5 75.24"/>
+          <line class="be05ce88-9219-44b6-a711-8b8d987179ac" x1="447.43" y1="75.24" x2="381.44" y2="75.24"/>
+          <polyline class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" points="379.91 75.24 378.41 75.24 378.41 76.74"/>
+          <line class="ac2ae66e-27c5-49b3-9b91-30839ebec93d" x1="378.41" y1="79.94" x2="378.41" y2="110.3"/>
+          <polyline class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" points="378.41 111.89 378.41 113.39 379.91 113.39"/>
+          <line class="be05ce88-9219-44b6-a711-8b8d987179ac" x1="382.98" y1="113.39" x2="448.96" y2="113.39"/>
+        </g>
+      </g>
+      <g id="ff793ba7-bc8b-4427-9772-dbcba83b026d" data-name="SPLINE">
+        <g>
+          <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M552.66,142.38h-1.51" transform="translate(0.5 0.5)"/>
+          <path class="a618fe70-cc98-45c7-b392-fc4c0f22857e" d="M548.13,142.41c-25.23.37-42.42,3.67-58.49,4.76-17,1.16-32.8-.17-43.93.54s-17.62,3.45-32.9,3.77c-13.69.28-34.42-1.38-44.33-1.73" transform="translate(0.5 0.5)"/>
+          <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M367,149.7h-1.49" transform="translate(0.5 0.5)"/>
+        </g>
+      </g>
+    </g>
+    <g id="bfd06f7e-332d-4e86-b006-7c1068df55bf" data-name="Below$Furniture_Appliance$Nightstands">
+      <g id="a9962da9-7019-4a67-89a3-70b08e02b5be" data-name="POLYLINE">
+        <rect class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" x="262.35" y="65.77" width="81.4" height="48.49"/>
+      </g>
+      <g id="a63e6bf1-9442-4893-82b3-3190a3e26bb8" data-name="POLYLINE">
+        <rect class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" x="58.84" y="477.82" width="23.19" height="38.3"/>
+      </g>
+      <g id="b07eb609-5a36-4d59-978f-6b874ad0cc65" data-name="POLYLINE">
+        <rect class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" x="107.15" y="509.07" width="187.18" height="93.59"/>
+      </g>
+    </g>
+    <g id="b1078802-02ff-4581-acd7-f74945da2e59" data-name="Below$Furniture_Appliance$Bookshelf">
+      <g id="afdeb607-930c-4703-93ad-0deecf8470da" data-name="POLYLINE">
+        <rect class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" x="72.92" y="276.97" width="20.58" height="3.98"/>
+      </g>
+      <g id="a8bd7997-ce79-4024-9c34-4814dbcc5171" data-name="POLYLINE">
+        <rect class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" x="72.92" y="381.99" width="20.58" height="3.98"/>
+      </g>
+      <g id="e6d405df-8205-409f-b813-bd4507fdb6ae" data-name="POLYLINE">
+        <line class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" x1="77.75" y1="280.95" x2="77.75" y2="381.99"/>
+      </g>
+      <g id="a638d973-6aa9-4ff3-843f-df28379332c3" data-name="POLYLINE">
+        <polyline class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" points="93.5 385.57 108.87 385.57 108.87 277.37 93.5 277.37"/>
+      </g>
+      <g id="ad8aa0cb-f02a-4890-af47-bac4fd0db982" data-name="POLYLINE">
+        <line class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" x1="78.14" y1="280.95" x2="78.14" y2="381.99"/>
+      </g>
+      <g id="a6fc426b-bda7-47d4-a157-cfb7bbb3535d" data-name="POLYLINE">
+        <polyline class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" points="93.5 385.96 109.25 385.96 109.25 276.98 93.5 276.98"/>
+      </g>
+      <g id="a5249850-b02a-45c0-98dd-a324553a8166" data-name="POLYLINE">
+        <rect class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" x="354.25" y="543.76" width="203.18" height="48.89"/>
+      </g>
+      <g id="babecbd1-5fcc-4369-a73f-1cfd3894dfd9" data-name="POLYLINE">
+        <rect class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" x="729.48" y="588.26" width="50.92" height="2.59"/>
+      </g>
+      <g id="ef1cbd7d-b02d-4206-905c-d987b2cd3130" data-name="ARC">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M779.9,583.19a.88.88,0,0,1,1.76,0" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="ffe19b52-d11a-4b55-9e5c-b4f0c836cf16" data-name="POLYLINE">
+        <polyline class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" points="782.16 583.68 782.16 600.74 780.4 600.74 780.4 583.68"/>
+      </g>
+      <g id="fa7dd791-6526-4a03-b938-34065677e7a5" data-name="ARC">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M729,583.19a.88.88,0,0,0-1.76,0" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="a4303e47-8702-46e7-bdc8-e45ca2844dae" data-name="POLYLINE">
+        <polyline class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" points="727.72 583.68 727.72 600.74 729.48 600.74 729.48 583.68"/>
+      </g>
+      <g id="a9a7eee6-2530-4427-af61-3d1dcf3f703e" data-name="POLYLINE">
+        <rect class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" x="774.12" y="600.74" width="13.3" height="1.02"/>
+      </g>
+      <g id="f07de112-7bc2-47e3-8837-4f261a31bc6b" data-name="POLYLINE">
+        <rect class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" x="722.46" y="600.74" width="13.3" height="1.02"/>
+      </g>
+    </g>
+    <g id="a4a90df2-693f-4c6e-a76a-80db92f5a53a" data-name="Below$Furniture_Appliance$SmallStuff">
+      <g id="b436c1f3-6e1f-4dba-bee0-8222facb9561" data-name="POLYLINE">
+        <rect class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" x="81" y="373.11" width="22.67" height="3.68"/>
+      </g>
+      <g id="acdebd79-cbea-4023-9aff-256397e98d3b" data-name="POLYLINE">
+        <rect class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" x="81" y="368.54" width="22.67" height="3.68"/>
+      </g>
+      <g id="eae71410-24a0-4fdd-b5ec-b16b9958c9c0" data-name="POLYLINE">
+        <rect class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" x="81" y="363.74" width="22.67" height="3.68"/>
+      </g>
+      <g id="a5aa041e-9151-45d0-8114-c9d8702fe367" data-name="POLYLINE">
+        <rect class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" x="81" y="358.29" width="22.67" height="3.68"/>
+      </g>
+      <g id="a08b4c31-b1db-4bad-b7d7-5017a59d0917" data-name="POLYLINE">
+        <rect class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" x="81" y="352.93" width="22.67" height="3.68"/>
+      </g>
+      <g id="a351dec7-2a31-4948-ae28-f97fa885be46" data-name="POLYLINE">
+        <rect class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" x="81" y="347.06" width="22.67" height="3.68"/>
+      </g>
+      <g id="a252cee1-ca27-405c-91a4-f48d418daf01" data-name="POLYLINE">
+        <rect class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" x="81" y="342.55" width="22.67" height="3.68"/>
+      </g>
+      <g id="e83864f6-434e-4e23-84f0-1ecb1ead461f" data-name="POLYLINE">
+        <rect class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" x="81" y="336.8" width="22.67" height="3.68"/>
+      </g>
+      <g id="b58e90ef-5c6a-410e-8529-6a847db4f1f7" data-name="CIRCLE">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M82.93,300.68a7.61,7.61,0,1,1,7.61,7.61,7.61,7.61,0,0,1-7.61-7.61Z" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="b8cd3b67-fecf-48c5-81c9-8120e017ee39" data-name="SPLINE">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M88.2,300.89c0,15.16,2.11,14.58,2.11,0" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="ac6104e0-6f2f-41e8-b7fb-1a4baae8132d" data-name="SPLINE">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M88.2,300.89a11.51,11.51,0,0,0-4-5.53c-1.44-1.23-2.66-2.1-3.2-2.62s-.43-.7.09-.95a4.58,4.58,0,0,1,2.24-.49c.81.07,1.52.54,2.52,1.73a28,28,0,0,1,3.66,6" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="bae5dbb2-2c97-4c46-8953-7a94b4e762cd" data-name="SPLINE">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M89.16,299.6a22.29,22.29,0,0,0,2-7c.28-1.86.45-3,.59-3.54s.25-.29.32-.07a9.84,9.84,0,0,1,.19,2c.09,1.53.24,4.33.21,6.32s-.23,3.19-2.15,3.83" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="abcdf745-4d05-4a60-be32-929a17afaf4c" data-name="SPLINE">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M88.21,302.38a19.89,19.89,0,0,0-4.54,4,29.07,29.07,0,0,1-2.3,2.58c-.4.27-.44-.21-.23-1.18a10.79,10.79,0,0,1,1.74-3.93,12.23,12.23,0,0,1,4.9-4.07" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="adfafed1-026b-4ee2-8824-d37c0088a447" data-name="CIRCLE">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M83.77,300.68a6.77,6.77,0,1,1,6.77,6.77,6.77,6.77,0,0,1-6.77-6.77Z" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="aef116bb-c228-487d-8bf8-37f14269b8ea" data-name="SPLINE">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M90.3,302.63c2,0,6.07.9,7.75.43s1-2.26.57-3.09-.54-.67-.66-.56a4.84,4.84,0,0,1-.64.41,5.81,5.81,0,0,1-2.43.85c-1.26.17-3.06.07-4.58.22" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="ab53c672-3a0a-44ae-b0a3-861d53a0db92" data-name="POLYLINE">
+        <rect class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" x="528.31" y="560" width="11.56" height="17.24"/>
+      </g>
+      <g id="b274b605-b5cc-4722-b12a-965ad8f51fdf" data-name="POLYLINE">
+        <rect class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" x="525.62" y="555.41" width="14.99" height="23" transform="translate(-43.17 45) rotate(-4.59)"/>
+      </g>
+      <g id="e93440c8-67bc-4192-b825-b9250e3b7840" data-name="POLYLINE">
+        <rect class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" x="519.12" y="557.51" width="28.37" height="19.84" transform="translate(-94.5 1027.96) rotate(-82.99)"/>
+      </g>
+      <g id="a5a0a862-9098-4d61-8462-8c85a5308cf6" data-name="POLYLINE">
+        <rect class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" x="520.43" y="549.65" width="26.07" height="35.18"/>
+      </g>
+      <g id="a08977c9-22a2-4b61-bc06-1c9720e242e5" data-name="POLYLINE">
+        <rect class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" x="389.61" y="550.34" width="32.74" height="20.27"/>
+      </g>
+      <g id="fed2730f-9f9c-4eb3-b76c-34e710462c20" data-name="POLYLINE">
+        <rect class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" x="400.84" y="555.58" width="10.88" height="9.77"/>
+      </g>
+      <g id="fcbb6dea-bc39-4cf2-8e10-ccc44a1781a3" data-name="POLYLINE">
+        <rect class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" x="392.71" y="552.75" width="24.66" height="15.07" transform="translate(-35.56 28.42) rotate(-3.78)"/>
+      </g>
+      <g id="f9aa51cf-196a-4106-bdf0-7a062b3cf6dc" data-name="ARC">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M373.88,587a4.36,4.36,0,0,0,4.36-4.35" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="ed172da7-9b91-4a84-9f0a-c125894216cc" data-name="SPLINE">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M378.24,582.64v-4.85" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="b1f0a878-3721-4696-8ed3-51a168e10239" data-name="ARC">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M378.24,577.79a4.36,4.36,0,0,0-4.36-4.35" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="fb636d0c-701e-402a-9884-745cf242faf9" data-name="SPLINE">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M373.88,573.44H369" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="bdf89891-a3ca-41ca-a354-55c8df4fa4fc" data-name="ARC">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M369,573.44a4.36,4.36,0,0,0-4.36,4.35" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="ed56e15a-42c5-4399-b3d8-f4ba3d98fc7e" data-name="SPLINE">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M364.68,577.79v4.85" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="bf3a50ad-473a-45fe-b033-7e5519ccaac3" data-name="ARC">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M364.68,582.64A4.36,4.36,0,0,0,369,587" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="bbeb77fc-69a5-4233-bbc8-2601c5da170f" data-name="SPLINE">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M369,587h4.84" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="b2c053d8-4f8c-4982-880b-d1da8c9fc7f0" data-name="POLYLINE">
+        <rect class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" x="481.43" y="558.25" width="12.28" height="18.85" transform="translate(-43.38 41.36) rotate(-4.59)"/>
+      </g>
+      <g id="ac8ca399-9455-4d5b-9bbd-a3bdc7fb4098" data-name="POLYLINE">
+        <rect class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" x="467.07" y="550.41" width="41.72" height="35.18"/>
+      </g>
+      <g id="f3a663c6-b537-48f5-bd1e-d3a4d333c2a7" data-name="POLYLINE">
+        <polygon class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" points="498.28 580.97 502.56 558.35 478.24 556.41 473.96 579.03 498.28 580.97"/>
+      </g>
+      <g id="bbefe3a0-1b81-42e5-ade0-bace3271b59f" data-name="POLYLINE">
+        <rect class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" x="180.76" y="527.84" width="52.72" height="15.58" transform="translate(-46.34 21.05) rotate(-5.1)"/>
+      </g>
+      <g id="bb48431c-6f9b-4190-b3c4-08c71cd67133" data-name="POLYLINE">
+        <rect class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" x="150.27" y="536.36" width="12.15" height="5.48" transform="translate(-401.43 597.96) rotate(-79.8)"/>
+      </g>
+      <g id="e32a545c-bccd-4f3c-a7fe-ece101aa9a05" data-name="POLYLINE">
+        <rect class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" x="181" y="580.32" width="39.88" height="2.14" transform="matrix(0.99, -0.14, 0.14, 0.99, -80.66, 35.26)"/>
+      </g>
+      <g id="b9d9c119-fdb0-4b5a-a052-08715e8da105" data-name="POLYLINE">
+        <rect class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" x="260.12" y="584" width="10.5" height="10.2"/>
+      </g>
+      <g id="b4b71f6c-9f57-43cc-a618-a6d1a489ee41" data-name="POLYLINE">
+        <rect class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" x="276.57" y="567.94" width="12.02" height="15.4"/>
+      </g>
+      <g id="fdd83808-631f-4967-afe1-bfef4ba83889" data-name="POLYLINE">
+        <rect class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" x="186.85" y="573.38" width="28.81" height="16.34" transform="translate(-130.9 64.32) rotate(-13.63)"/>
+      </g>
+      <g id="b05f7363-6c27-422f-89bf-57ca47fa2bee" data-name="ARC">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M194.7,583.37a6.36,6.36,0,0,0,12.45-1.8" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="a675f1a4-2427-4d1e-8bde-53cf164579de" data-name="ARC">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M206.8,579.46a6.36,6.36,0,0,0-12.36,1.79" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="a78fc077-7e27-4da4-8e7a-d7fdf36b4c64" data-name="ARC">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M169.08,587.11a.75.75,0,0,0-.65-.84" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="bc0eddc0-3f13-4f4d-80ca-a81563a3cd9b" data-name="SPLINE">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M168.43,586.27l-15.77-2" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="ea11158f-2004-456d-9bd2-8aad00a866a5" data-name="ARC">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M152.66,584.3a.74.74,0,0,0-.83.65" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="a31e3526-55a8-44fe-b333-6fa4d881f6d2" data-name="SPLINE">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M151.83,585l-.17,1.31" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="efefa310-8b1d-41d5-a48f-7c185b2ff97e" data-name="ARC">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M151.66,586.26a.76.76,0,0,0,.65.84" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="f24bf618-89cd-441c-8861-d5855d09438d" data-name="SPLINE">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M152.31,587.1l15.77,2" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="e0b5315b-152b-4a0d-8394-1efcecc04f12" data-name="ARC">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M168.08,589.07a.75.75,0,0,0,.84-.65" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="f1d62b1e-a6ee-4c96-92dc-10bde14554ef" data-name="SPLINE">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M168.92,588.42l.16-1.31" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="ed3c1a81-4c62-436f-ad7f-2adeb4ca6b9f" data-name="ARC">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M169.3,585.6a.75.75,0,0,0,.84-.65" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="b7893e11-637c-4801-8022-5bf10d2e1ae5" data-name="SPLINE">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M170.14,585l1.44-11.48" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="b7d8d773-cfa1-49f5-9f02-215cd83c7191" data-name="ARC">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M171.58,573.47a.74.74,0,0,0-.65-.83" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="a6f730ce-39ee-452a-8a49-fc4afd0248de" data-name="SPLINE">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M170.93,572.64l-17.32-2.17" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="abd0be56-d4e1-4a52-8019-abf09cfc01c8" data-name="ARC">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M153.61,570.47a.74.74,0,0,0-.84.64" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="b2e6c166-0224-4f72-ad46-72b423d05e88" data-name="SPLINE">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M152.77,571.11l-1.44,11.48" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="eba054e8-1ada-4c9c-a3b1-c0781b35e6ba" data-name="ARC">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M151.33,582.59a.75.75,0,0,0,.65.84" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="a85e6e3f-60b1-4514-95ff-301569d61702" data-name="SPLINE">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M152,583.43l17.32,2.17" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="ba402108-7cfe-4306-8f62-640250d15b0d" data-name="ARC">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M170,586.43a.74.74,0,0,0-.65-.83" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="ae04222e-34c3-4ada-b6fc-8225dde7b4f7" data-name="SPLINE">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M169.3,585.6,152,583.43" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="eb2edabe-6c2b-4721-9447-4a3ea2c27425" data-name="ARC">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M152,583.43a.74.74,0,0,0-.83.65" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="ab75d83a-4edf-40d8-8631-8c26b66f0138" data-name="SPLINE">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M151.15,584.08l-.36,2.86" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="abf2c7ba-8ee3-4da7-a880-ae899d0e487a" data-name="ARC">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M150.79,586.94a.74.74,0,0,0,.65.83" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="abf721a8-cc9b-4aa5-8812-ef406e768f15" data-name="SPLINE">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M151.44,587.77l17.32,2.17" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="f238c696-4294-4761-aa2c-af05d871875b" data-name="ARC">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M168.76,589.94a.76.76,0,0,0,.84-.65" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="fdf8437c-65df-450a-b4c3-acc9a4276a5c" data-name="SPLINE">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M169.6,589.29l.35-2.86" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="faa3d8ed-f3de-4d18-9c83-5377769368c8" data-name="SPLINE">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M165.27,575.22c-.1.75-.8,1-2.12.88" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="fe66d712-b94d-442c-9eaa-6e192f3c01eb" data-name="SPLINE">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M163.15,576.1l-2.88-.36" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="be9cc49b-0e50-4044-bc65-3eae1aad5fb3" data-name="SPLINE">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M160.27,575.74c-1.32-.16-1.93-.62-1.83-1.37" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="f6f41ff9-f614-42d1-bdb5-058c4c3904c6" data-name="SPLINE">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M158.44,574.37l.19-1.55" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="ac370932-c06d-40bc-90f3-2086b318acbe" data-name="SPLINE">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M158.63,572.82c.1-.75.8-1.05,2.11-.88" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="aeed177b-a82a-4d51-8b15-9318b8625b70" data-name="SPLINE">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M160.74,571.94l2.89.36" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="a7e5db47-d444-4c35-b1b1-3cca33e4cc2b" data-name="SPLINE">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M163.63,572.3c1.31.16,1.92.62,1.83,1.37" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="b24235a8-b859-4c06-b025-f36f6bf6a899" data-name="SPLINE">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M165.46,573.67l-.19,1.55" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="a2be2ae5-8036-4131-ac80-f57a8a8fb8e9" data-name="LINE">
+        <line class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" x1="170.42" y1="579.06" x2="153.63" y2="576.96"/>
+      </g>
+      <g id="a3fcfc46-0a59-4f21-8591-3eb172b0535a" data-name="LINE">
+        <line class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" x1="170.26" y1="582.2" x2="153" y2="580.04"/>
+      </g>
+      <g id="a4b35875-b41c-4521-8f2b-80d499f77e61" data-name="LINE">
+        <line class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" x1="170.39" y1="581.17" x2="153.13" y2="579"/>
+      </g>
+      <g id="a7d9fa05-88f8-43f1-a35d-d563c4c398e4" data-name="LINE">
+        <line class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" x1="170.52" y1="580.13" x2="153.26" y2="577.97"/>
+      </g>
+      <g id="f5673d11-d4aa-4447-8b5e-fd7ebb22583c" data-name="LINE">
+        <line class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" x1="170.13" y1="583.24" x2="152.87" y2="581.08"/>
+      </g>
+      <g id="ac32037f-e439-4b39-b6f9-67cb79e749ee" data-name="LINE">
+        <line class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" x1="169.84" y1="584.26" x2="152.91" y2="582.14"/>
+      </g>
+      <g id="fd6c60f1-fd0f-4b2c-96d8-95e0b717621d" data-name="LINE">
+        <line class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" x1="168.3" y1="584.07" x2="168.17" y2="585.11"/>
+      </g>
+      <g id="af749fe8-75e0-4823-937e-171efe3b3b3b" data-name="LINE">
+        <line class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" x1="166.26" y1="583.81" x2="166.13" y2="584.85"/>
+      </g>
+      <g id="b4a2dbd4-3185-44f4-9349-ca7f348d810c" data-name="LINE">
+        <line class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" x1="163.77" y1="583.5" x2="163.64" y2="584.54"/>
+      </g>
+      <g id="fc664d57-3b27-4019-b855-6e07f491ae9e" data-name="LINE">
+        <line class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" x1="161.37" y1="583.2" x2="161.24" y2="584.24"/>
+      </g>
+      <g id="a2d94da8-bb92-4a83-8edc-cafe559d2f4b" data-name="LINE">
+        <line class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" x1="158.81" y1="582.88" x2="158.68" y2="583.92"/>
+      </g>
+      <g id="f37d5144-7fd7-44ce-80d4-0d7f0af0b1d4" data-name="LINE">
+        <line class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" x1="156.22" y1="582.55" x2="156.09" y2="583.59"/>
+      </g>
+      <g id="b7e4ab7d-056a-421f-b8bc-747a9f004f29" data-name="LINE">
+        <line class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" x1="154.15" y1="582.3" x2="154.02" y2="583.33"/>
+      </g>
+      <g id="bd3e4d17-a3ea-4f0c-aa1a-6132e88ebbbd" data-name="LINE">
+        <line class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" x1="167.73" y1="582.94" x2="167.6" y2="583.98"/>
+      </g>
+      <g id="b76d8acf-738e-4eeb-a2db-4dac86612f5e" data-name="LINE">
+        <line class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" x1="165.24" y1="582.63" x2="165.11" y2="583.67"/>
+      </g>
+      <g id="f56bda5d-1759-4e68-8f13-cbdc11acf465" data-name="LINE">
+        <line class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" x1="162.84" y1="582.33" x2="162.71" y2="583.37"/>
+      </g>
+      <g id="bb26cf77-847b-4b76-b88c-ffdf3bbcecb7" data-name="LINE">
+        <line class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" x1="160.28" y1="582.01" x2="160.15" y2="583.05"/>
+      </g>
+      <g id="f7675f62-75dc-4330-8c17-d006d7f7bef7" data-name="LINE">
+        <line class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" x1="157.69" y1="581.68" x2="157.56" y2="582.72"/>
+      </g>
+      <g id="bd33e880-819f-4583-a4b1-c5db5567f871" data-name="LINE">
+        <line class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" x1="155.62" y1="581.42" x2="155.49" y2="582.46"/>
+      </g>
+      <g id="b04db119-9c47-48ef-acd7-60d8a700ff63" data-name="LINE">
+        <line class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" x1="153.56" y1="581.17" x2="153.43" y2="582.2"/>
+      </g>
+      <g id="e83bb3c9-2e5c-4fe7-8891-e47a9e444141" data-name="LINE">
+        <line class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" x1="168.56" y1="581.99" x2="168.43" y2="583.03"/>
+      </g>
+      <g id="b2b26608-d21e-4912-9b94-2fe48dbfed4d" data-name="LINE">
+        <line class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" x1="166.52" y1="581.74" x2="166.39" y2="582.77"/>
+      </g>
+      <g id="b7d56e06-7a45-408b-954b-bec61399d318" data-name="LINE">
+        <line class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" x1="164.03" y1="581.42" x2="163.9" y2="582.46"/>
+      </g>
+      <g id="a3ff01f5-2226-4623-b96f-2356ebcbf077" data-name="LINE">
+        <line class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" x1="161.63" y1="581.12" x2="161.5" y2="582.16"/>
+      </g>
+      <g id="b51d8700-c117-483a-bdae-6958070c4ece" data-name="LINE">
+        <line class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" x1="159.07" y1="580.8" x2="158.94" y2="581.84"/>
+      </g>
+      <g id="f3d847e2-586d-4848-adc0-d4e18b562c96" data-name="LINE">
+        <line class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" x1="156.48" y1="580.48" x2="156.35" y2="581.52"/>
+      </g>
+      <g id="bd8e8c96-28e7-4fee-8c51-1483355a8553" data-name="LINE">
+        <line class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" x1="154.41" y1="580.22" x2="154.28" y2="581.26"/>
+      </g>
+      <g id="bbd9d004-1c1d-48f6-a13a-b3aaaf8bfca1" data-name="LINE">
+        <line class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" x1="167.99" y1="580.86" x2="167.86" y2="581.9"/>
+      </g>
+      <g id="afb2741c-fda1-4db6-966c-a323c2b3e755" data-name="LINE">
+        <line class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" x1="165.5" y1="580.55" x2="165.37" y2="581.59"/>
+      </g>
+      <g id="bc128b27-30d5-44ae-b856-8c2bb80b9c15" data-name="LINE">
+        <line class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" x1="163.1" y1="580.25" x2="162.97" y2="581.29"/>
+      </g>
+      <g id="f773cfa6-4edc-43cb-9a8c-fd54958cf16d" data-name="LINE">
+        <line class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" x1="160.54" y1="579.93" x2="160.41" y2="580.97"/>
+      </g>
+      <g id="fc019ff8-3ba1-470e-9557-2bed748a7b21" data-name="LINE">
+        <line class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" x1="157.95" y1="579.61" x2="157.82" y2="580.65"/>
+      </g>
+      <g id="a44b1e8a-c760-4c4d-b493-949895e8bb46" data-name="LINE">
+        <line class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" x1="153.82" y1="579.09" x2="153.69" y2="580.13"/>
+      </g>
+      <g id="b9c1fd82-260a-4f36-868a-6d2ec6c9ddb6" data-name="POLYLINE">
+        <line class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" x1="155.62" y1="581.42" x2="155.75" y2="580.39"/>
+      </g>
+      <g id="ee01d71f-9390-44c4-8a6e-c1c930edfcac" data-name="LINE">
+        <line class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" x1="168.82" y1="579.91" x2="168.69" y2="580.95"/>
+      </g>
+      <g id="f65f4cd4-db5a-418f-9c09-5b85dd0a640b" data-name="LINE">
+        <line class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" x1="166.78" y1="579.66" x2="166.65" y2="580.7"/>
+      </g>
+      <g id="a759a62a-4fd5-4ebb-ad83-876388c5dc5a" data-name="LINE">
+        <line class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" x1="164.29" y1="579.35" x2="164.16" y2="580.39"/>
+      </g>
+      <g id="b2f5fd91-760f-445d-91bb-c1bc4bf44e01" data-name="LINE">
+        <line class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" x1="161.89" y1="579.05" x2="161.76" y2="580.08"/>
+      </g>
+      <g id="e117e72a-6165-494b-8543-e881115cfa2e" data-name="LINE">
+        <line class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" x1="159.33" y1="578.73" x2="159.2" y2="579.76"/>
+      </g>
+      <g id="a1828563-4b14-492b-9f7c-f85d4aac282e" data-name="LINE">
+        <line class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" x1="156.74" y1="578.4" x2="156.61" y2="579.44"/>
+      </g>
+      <g id="b3d0a5ad-84de-4dd6-83c2-75d2de25ce6e" data-name="LINE">
+        <line class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" x1="154.67" y1="578.14" x2="154.54" y2="579.18"/>
+      </g>
+      <g id="a90d41a3-648e-427b-8c41-0df27463c3e4" data-name="LINE">
+        <line class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" x1="168.25" y1="578.79" x2="168.12" y2="579.83"/>
+      </g>
+      <g id="b702fa49-fa38-44f6-b597-d162d56a0102" data-name="LINE">
+        <line class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" x1="165.76" y1="578.48" x2="165.63" y2="579.51"/>
+      </g>
+      <g id="b5c681c6-e7a5-470d-8c48-8f5634ccf907" data-name="LINE">
+        <line class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" x1="163.36" y1="578.18" x2="163.23" y2="579.21"/>
+      </g>
+      <g id="af1c4226-f795-4d5c-b981-f5563012b61a" data-name="LINE">
+        <line class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" x1="160.8" y1="577.85" x2="160.67" y2="578.89"/>
+      </g>
+      <g id="e884c900-2be4-4b4e-895b-3551b9449c07" data-name="LINE">
+        <line class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" x1="158.21" y1="577.53" x2="158.08" y2="578.57"/>
+      </g>
+      <g id="a1fab60b-a33d-4ab8-a45c-f8f05d891488" data-name="LINE">
+        <line class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" x1="154.08" y1="577.01" x2="153.95" y2="578.05"/>
+      </g>
+      <g id="ec208aa6-b37c-4e21-b488-d62c4a45b595" data-name="POLYLINE">
+        <line class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" x1="155.62" y1="581.42" x2="156.01" y2="578.31"/>
+      </g>
+      <g id="f4e06d68-5030-4756-ac6c-62097c8beb87" data-name="LINE">
+        <line class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" x1="169.08" y1="577.84" x2="168.95" y2="578.88"/>
+      </g>
+      <g id="f3c88f5e-07c0-45dc-9314-03befb253d44" data-name="LINE">
+        <line class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" x1="167.04" y1="577.58" x2="166.91" y2="578.62"/>
+      </g>
+      <g id="a6769f71-68c3-4aa7-950b-09a7038173b6" data-name="LINE">
+        <line class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" x1="164.55" y1="577.27" x2="164.42" y2="578.31"/>
+      </g>
+      <g id="ead55b60-e600-4932-9714-8e0b1c061016" data-name="LINE">
+        <line class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" x1="159.59" y1="576.65" x2="159.46" y2="577.69"/>
+      </g>
+      <g id="e1d89706-d8b4-4815-aaac-1c0c95adb927" data-name="LINE">
+        <line class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" x1="157" y1="576.32" x2="156.87" y2="577.36"/>
+      </g>
+      <g id="ba0f7fa1-f846-4ae7-8f25-d9a0b895bc3c" data-name="LINE">
+        <line class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" x1="154.93" y1="576.07" x2="154.8" y2="577.1"/>
+      </g>
+      <g id="f8d5baba-397a-48bf-9a78-6c55784283cb" data-name="POLYLINE">
+        <line class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" x1="155.62" y1="581.42" x2="156.27" y2="576.23"/>
+      </g>
+      <g id="f261bf1a-50f0-4d4e-a05e-ccd38e14b78d" data-name="SPLINE">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M167.82,584.63c1,.12,1.63-.45,1.79-1.74" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="aeb48d96-2b6e-4d9c-aebe-96de7d0a1570" data-name="SPLINE">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M169.61,582.89l.43-3.41" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="bf6b92c7-7668-49cf-adc5-5a9e40b67200" data-name="SPLINE">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M170,579.48c.16-1.29-.27-2-1.31-2.12" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="b316caea-19a5-4602-9b03-3785bb95012c" data-name="SPLINE">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M168.73,577.36l-14.16-1.78" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="e479fd19-1b0b-4e52-b742-64ac9519ab90" data-name="SPLINE">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M154.57,575.58c-1-.13-1.63.45-1.79,1.73" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="b320f91e-b120-40dc-89fd-9e5cdb0a69f2" data-name="SPLINE">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M152.78,577.31l-.43,3.42" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="a2ef5621-f992-466f-bfe5-c1137e4831b8" data-name="SPLINE">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M152.35,580.73c-.16,1.29.28,2,1.31,2.12" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="add473b3-0346-4640-826f-e0b9d1aab23a" data-name="SPLINE">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M153.66,582.85l14.16,1.78" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="adc7c6b3-fcae-4ebc-a3c5-71c01f9f7689" data-name="CIRCLE">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M115.27,584.22a10.64,10.64,0,1,1,10.64,10.63,10.64,10.64,0,0,1-10.64-10.63Z" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="ac9a2141-d051-475d-bc1a-aac70e00ff66" data-name="SPLINE">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M122.64,584.51c0,21.21,3,20.39,3,0" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="b89cc6d7-fa0a-468b-926f-6596daa613a1" data-name="SPLINE">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M122.64,584.51a16.08,16.08,0,0,0-5.52-7.73c-2-1.73-3.72-2.93-4.49-3.66s-.59-1,.13-1.34a6.46,6.46,0,0,1,3.14-.68c1.13.1,2.12.76,3.52,2.42a38.3,38.3,0,0,1,5.12,8.34" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="a2ef1326-901a-4898-ac8c-775b0ef858bb" data-name="SPLINE">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M124,582.7a30.89,30.89,0,0,0,2.78-9.79c.4-2.61.64-4.26.83-4.95s.35-.42.45-.11a14.81,14.81,0,0,1,.27,2.79c.12,2.13.33,6.05.29,8.84s-.33,4.45-3,5.35" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="e0ca7421-62c5-4b52-a9af-27432c381239" data-name="SPLINE">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M122.65,586.6a27.85,27.85,0,0,0-6.35,5.56,39.81,39.81,0,0,1-3.21,3.61c-.56.38-.62-.3-.33-1.65a15.27,15.27,0,0,1,2.44-5.5,17.08,17.08,0,0,1,6.86-5.69" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="aeced819-ff0c-4f81-9173-883765fd2c5a" data-name="CIRCLE">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M116.44,584.22a9.47,9.47,0,1,1,9.47,9.47,9.47,9.47,0,0,1-9.47-9.47Z" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="aa96ff94-4b8e-4201-aff0-3c2b8183a69f" data-name="SPLINE">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M125.58,587c2.84,0,8.49,1.25,10.83.6s1.38-3.17.8-4.32-.76-.94-.92-.79a7.14,7.14,0,0,1-.9.57,8.33,8.33,0,0,1-3.39,1.2c-1.77.23-4.28.09-6.41.3" transform="translate(0.5 0.5)"/>
+      </g>
+    </g>
+    <g id="ba03fb59-2115-48fe-ab9b-39eb58a10ac4" data-name="Below$Furniture_Appliance$rug">
+      <g id="b0f33653-a330-4f8b-99c4-d9b8ce477ad0" data-name="POLYLINE">
+        <rect class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" x="336.78" y="315.04" width="239.22" height="196.31"/>
+      </g>
+      <g id="a1e4705c-3f26-4e5d-9aee-43fd256ccc35" data-name="CIRCLE">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M154.76,206.63a86.6,86.6,0,1,1,86.6,86.61,86.6,86.6,0,0,1-86.6-86.61Z" transform="translate(0.5 0.5)"/>
+      </g>
+    </g>
+    <g id="b551cb55-d758-4322-9918-2280d786d095" data-name="Below$Chair">
+      <g id="a40d85a7-d675-4e98-b3b3-75ed3b6f10cd" data-name="ARC">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M221.29,455.26a151.12,151.12,0,0,0-38.93-10.12" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="af41ac7f-debd-4ac9-93b3-424d4b94bb00" data-name="POLYLINE">
+        <rect class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" x="198.86" y="470.76" width="42.67" height="4.35" transform="translate(-292.42 567.56) rotate(-75.43)"/>
+      </g>
+      <g id="b4568bdb-a15a-452e-a86e-7d14465fc628" data-name="POLYLINE">
+        <rect class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" x="221.93" y="452.92" width="4.12" height="2.18" transform="translate(-271.26 557.07) rotate(-75.43)"/>
+      </g>
+      <g id="ba2ed773-47fc-4df7-a53a-4257123fb800" data-name="ARC">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M222.75,454a.87.87,0,0,0-.47-1.14" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="a3ca72e1-5dc9-40c4-9fa7-713630c49be2" data-name="LINE">
+        <line class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" x1="223.25" y1="454.48" x2="222.92" y2="455.29"/>
+      </g>
+      <g id="f55a0820-6970-4c6c-a74c-7193f7ef337b" data-name="ARC">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M221.29,455.26a.87.87,0,0,0,1.13-.47" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="bd93fe2f-cff9-4679-8ce2-876b7b6d31b0" data-name="ARC">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M171.11,483.56a2.61,2.61,0,0,0,1.87,3.18" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="bca587b8-1528-4c45-a714-caf5ff72ee37" data-name="LINE">
+        <line class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" x1="171.94" y1="482.81" x2="171.61" y2="484.06"/>
+      </g>
+      <g id="ba3de4b7-5710-4247-bd29-b356feaff379" data-name="ARC">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M181.6,444.17a.87.87,0,0,0,.76,1" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="b3af60ae-0fa6-4de2-a57b-0798698e67d5" data-name="LINE">
+        <line class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" x1="182.2" y1="443.81" x2="182.1" y2="444.67"/>
+      </g>
+      <g id="e6c56b13-36b8-45c5-aff4-968bfb6ba4c1" data-name="ARC">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M182.67,442.55a.87.87,0,0,0-1,.76" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="a90bf311-0c61-4b4d-9760-da11141c50c4" data-name="POLYLINE">
+        <rect class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" x="178.54" y="441.64" width="4.12" height="2.18" transform="translate(-292.82 506.63) rotate(-75.43)"/>
+      </g>
+      <g id="bb8fa92a-8d03-4975-a5c9-3884372608af" data-name="POLYLINE">
+        <rect class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" x="153.36" y="458.93" width="42.67" height="4.35" transform="translate(-315.03 514.67) rotate(-75.43)"/>
+      </g>
+      <g id="e494ce93-bacb-4bf7-87f2-fa8da7b25c80" data-name="LINE">
+        <line class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" x1="173.48" y1="487.24" x2="209.71" y2="496.66"/>
+      </g>
+      <g id="a19f513c-3dc8-4303-948f-2ba563ecb996" data-name="ARC">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M222.28,452.84a153.83,153.83,0,0,0-39.61-10.29" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="b3b940aa-d4dc-47b0-bfde-b0c5714ec2d6" data-name="ARC">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M209.21,496.16a2.61,2.61,0,0,0,3.19-1.87" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="b411886e-e09e-48ea-9ab7-c19a0c4abb73" data-name="LINE">
+        <line class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" x1="212.9" y1="494.79" x2="213.23" y2="493.54"/>
+      </g>
+      <g id="a68fcec6-509f-4a3c-bb71-508b1018bf37" data-name="ARC">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M533.22,499.13a151.68,151.68,0,0,0,30.29-26.47" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="a66cb329-b52e-4981-b0ed-6358916d3f40" data-name="POLYLINE">
+        <rect class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" x="517.05" y="466.94" width="4.35" height="42.67" transform="translate(-192.55 462.83) rotate(-41.15)"/>
+      </g>
+      <g id="b95bcfa0-ddd3-4d65-8fdd-5aa04fefb77a" data-name="POLYLINE">
+        <rect class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" x="531.64" y="500.01" width="2.18" height="4.12" transform="translate(-198.29 475.12) rotate(-41.15)"/>
+      </g>
+      <g id="b6b7253f-0ec4-4508-b3f9-bdea196fddbb" data-name="ARC">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M533.45,501.06a.88.88,0,0,0,1.21.25" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="b2694461-05c0-4fee-8c7e-361cd4d04513" data-name="LINE">
+        <line class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" x1="533.95" y1="501.56" x2="533.47" y2="500.83"/>
+      </g>
+      <g id="b929eb32-882b-4cf3-a544-fcef4a0560b5" data-name="ARC">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M533.22,499.13a.87.87,0,0,0-.25,1.2" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="be219b6b-a10e-4893-b5f7-cd3c4bbd4cc6" data-name="ARC">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M538.09,441.73a2.6,2.6,0,0,0-3.68-.25" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="bcd9f841-bf48-4f71-a536-525e82f247cf" data-name="LINE">
+        <line class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" x1="539.44" y1="443.2" x2="538.59" y2="442.23"/>
+      </g>
+      <g id="f40ee96f-e9be-4372-936c-220e385a7ddb" data-name="ARC">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M564.73,472.57a.87.87,0,0,0-1.22.09" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="b9ad24b5-f9f1-441e-adf9-ab6423dbc9a4" data-name="LINE">
+        <line class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" x1="565.89" y1="473.64" x2="565.23" y2="473.07"/>
+      </g>
+      <g id="e55aafb8-d03e-4c02-aaba-c8b72717b2f5" data-name="ARC">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M565.47,474.38a.87.87,0,0,0-.08-1.23" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="ad8c0b34-fc2f-4a80-845b-abd78ad32204" data-name="POLYLINE">
+        <rect class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" x="565.4" y="470.5" width="2.18" height="4.12" transform="translate(-170.53 490.05) rotate(-41.15)"/>
+      </g>
+      <g id="e8ec4f08-29f5-4374-bd95-b23edcf8f3a8" data-name="POLYLINE">
+        <rect class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" x="552.45" y="436" width="4.35" height="42.67" transform="translate(-163.44 478.48) rotate(-41.15)"/>
+      </g>
+      <g id="bf340cc6-eb8f-4626-9fdf-2877715b8fdb" data-name="LINE">
+        <line class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" x1="534.91" y1="441.98" x2="506.72" y2="466.62"/>
+      </g>
+      <g id="ad9b7715-7e34-40cd-bb36-99d66613a1a0" data-name="ARC">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M534.66,501.31a153.92,153.92,0,0,0,30.81-26.93" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="a69dc83a-1c92-4e2f-b042-454e08d98b7f" data-name="ARC">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M506.22,466.12a2.6,2.6,0,0,0-.25,3.68" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="b0125c5e-f431-47a4-82b0-0e9cd93fbbc4" data-name="LINE">
+        <line class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" x1="506.47" y1="470.3" x2="507.32" y2="471.28"/>
+      </g>
+    </g>
+    <g id="aece33f8-3411-45d1-b8ca-0432e97fd1f1" data-name="Below$Stool">
+      <g id="f73950d6-17b0-4bd6-b70f-ae693f6772d1" data-name="CIRCLE">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M62.12,420.82a15,15,0,1,1,15,15,15,15,0,0,1-15-15Z" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="a5e28097-2277-4485-a946-06e910564e48" data-name="CIRCLE">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M72,410.82a2.07,2.07,0,1,1,2.07,2.07A2.07,2.07,0,0,1,72,410.82Z" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="e4367d56-422e-4686-a04e-824cd701c809" data-name="CIRCLE">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M78.87,430.79a2.07,2.07,0,1,1,2.07,2.07,2.07,2.07,0,0,1-2.07-2.07Z" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="b9b67133-7bcb-4ca2-837f-7ceb681570d0" data-name="CIRCLE">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M84.14,424.56a2.08,2.08,0,1,1,2.08,2.07,2.08,2.08,0,0,1-2.08-2.07Z" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="b1e695d1-0adc-4862-badd-9a84291ca9f8" data-name="CIRCLE">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M79.23,411.57a2.07,2.07,0,1,1,2.07,2.07,2.07,2.07,0,0,1-2.07-2.07Z" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="afae1b58-dd19-4bf6-babb-a9035f3ee8ea" data-name="CIRCLE">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M84,417.21a2.08,2.08,0,1,1,2.08,2.07A2.08,2.08,0,0,1,84,417.21Z" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="e8e87bd4-b3d0-48b4-9a1e-e2cfc7bda147" data-name="CIRCLE">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M66,415.93A2.08,2.08,0,1,1,68,418,2.07,2.07,0,0,1,66,415.93Z" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="b7ec0fd9-d1b3-47a4-848b-5d6f07ef14aa" data-name="CIRCLE">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M65.91,424.15A2.07,2.07,0,1,1,68,426.22a2.07,2.07,0,0,1-2.07-2.07Z" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="bea3ef89-d58a-4346-a498-af9d44833254" data-name="CIRCLE">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M70.93,429.83A2.07,2.07,0,1,1,73,431.9a2.06,2.06,0,0,1-2.07-2.07Z" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="a7c0e8bf-5baa-48a4-9e47-1efa39203bf1" data-name="CIRCLE">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M179.71,86.58a2.07,2.07,0,1,1,2.07,2.07,2.06,2.06,0,0,1-2.07-2.07Z" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="a2132067-7daf-463d-8eae-75830255fd06" data-name="CIRCLE">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M174.69,80.9A2.07,2.07,0,1,1,176.76,83a2.07,2.07,0,0,1-2.07-2.07Z" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="b690c7a3-e994-4c95-a500-d3b10832849c" data-name="CIRCLE">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M174.74,72.68a2.08,2.08,0,1,1,2.08,2.07,2.08,2.08,0,0,1-2.08-2.07Z" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="e01fb2ef-9115-4c78-976a-c08e264af8c1" data-name="CIRCLE">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M192.8,74A2.08,2.08,0,1,1,194.88,76,2.08,2.08,0,0,1,192.8,74Z" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="b181b893-8a25-4f19-97a3-6dc236a7d9fb" data-name="CIRCLE">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M188,68.32a2.07,2.07,0,1,1,2.07,2.07A2.07,2.07,0,0,1,188,68.32Z" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="b4def7eb-b6b0-45b9-a428-3aaf4d0c3918" data-name="CIRCLE">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M192.92,81.31A2.08,2.08,0,1,1,195,83.38a2.07,2.07,0,0,1-2.08-2.07Z" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="a92a43d2-5455-48fd-aa0b-bf4a16c692d9" data-name="CIRCLE">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M187.65,87.54a2.07,2.07,0,1,1,2.07,2.07,2.07,2.07,0,0,1-2.07-2.07Z" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="b938c19c-a42c-48af-94ec-6bab4e701c87" data-name="CIRCLE">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M180.79,67.57a2.07,2.07,0,1,1,2.07,2.07,2.07,2.07,0,0,1-2.07-2.07Z" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="fa99c189-bd30-42a4-bd95-80680ba66004" data-name="CIRCLE">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M170.9,77.57a15,15,0,1,1,15,15,15,15,0,0,1-15-15Z" transform="translate(0.5 0.5)"/>
+      </g>
+    </g>
+    <g id="fbc031f0-875a-4300-a876-85c7bd64394e" data-name="Below$Radiator">
+      <g id="fe4904fe-2a36-40ed-8e06-acd10760a561" data-name="ARC">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M121.42,60.68a.37.37,0,0,0,.38-.37" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="b833041e-9992-4bda-a660-2b0b0613117b" data-name="SPLINE">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M121.8,60.31V45.78" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="bdd628e0-4ae8-4cb6-b9a0-325292183628" data-name="ARC">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M121.8,45.78a.38.38,0,0,0-.38-.38" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="e48d107c-ce26-4c10-bada-01e9c12f38ac" data-name="SPLINE">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M121.42,45.4h-1.68" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="f220824f-61fa-4056-952c-40402a068e76" data-name="ARC">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M119.74,45.4a.38.38,0,0,0-.37.38" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="b24ddd97-d030-4e25-876a-a673d61ed6ac" data-name="SPLINE">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M119.37,45.78V60.31" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="efa80bdd-72b0-4fa6-a263-990e163ba794" data-name="ARC">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M119.37,60.31a.37.37,0,0,0,.37.37" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="e7f7a35d-9ab4-4a53-877d-ef5cc06c2015" data-name="SPLINE">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M119.74,60.68h1.68" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="f019ab8d-3b04-4d5d-a976-c6a813f9db13" data-name="ARC">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M117.81,60.68a.37.37,0,0,0,.38-.37" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="a159ce2e-aeac-425b-aae7-f581b888953d" data-name="SPLINE">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M118.19,60.31V45.78" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="aefdb576-07eb-434a-8962-bf4d6097fa36" data-name="ARC">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M118.19,45.78a.38.38,0,0,0-.38-.38" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="e764c827-6a83-40ff-b536-7ba8000f20d6" data-name="SPLINE">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M117.81,45.4h-1.67" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="e3559eaa-b931-4dab-aa2f-4b7ec9ea326a" data-name="ARC">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M116.14,45.4a.38.38,0,0,0-.38.38" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="abbe9d80-6932-4e75-baec-c3af5bd37b0b" data-name="SPLINE">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M115.76,45.78V60.31" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="e6e48dd3-3853-40b2-831b-357cdf283f6d" data-name="ARC">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M115.76,60.31a.37.37,0,0,0,.38.37" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="bdcacb79-cad3-45a5-87c3-bf61ece4a8bc" data-name="SPLINE">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M116.14,60.68h1.67" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="f97e0a6c-7f90-4a95-af0f-d1ec219ade39" data-name="ARC">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M114.21,60.68a.37.37,0,0,0,.37-.37" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="bbff4631-9043-44d1-a426-70fe9e797d22" data-name="SPLINE">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M114.58,60.31V45.78" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="b99c0d02-4b40-45d2-8298-c1acaa796375" data-name="ARC">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M114.58,45.78a.38.38,0,0,0-.37-.38" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="f0f7e6d2-f527-4572-9b74-3da9b18765e2" data-name="SPLINE">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M114.21,45.4h-1.68" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="a79f8e68-9951-4166-af8f-5203ed35067a" data-name="ARC">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M112.53,45.4a.37.37,0,0,0-.37.38" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="b8e57737-a908-420a-83a8-c8f6fd80f694" data-name="SPLINE">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M112.16,45.78V60.31" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="b23588b5-5624-4459-851f-165ee1e2db92" data-name="ARC">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M112.16,60.31a.36.36,0,0,0,.37.37" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="e00aa7df-7995-4ce2-a595-55a404ca576d" data-name="SPLINE">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M112.53,60.68h1.68" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="a26b42cf-eecf-4035-a3ac-6383e4f8ebe6" data-name="ARC">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M110.6,60.68a.36.36,0,0,0,.37-.37" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="a0d4c95c-b17b-4412-891c-f01aa351f72b" data-name="SPLINE">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M111,60.31V45.78" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="f670346b-c6f5-4ca8-ae8d-78657fde0243" data-name="ARC">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M111,45.78a.37.37,0,0,0-.37-.38" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="bdd5131b-3efb-48ba-970f-443b86982aa3" data-name="SPLINE">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M110.6,45.4h-1.68" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="a6a64bd4-a197-48b0-9666-c5a43edae111" data-name="ARC">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M108.92,45.4a.38.38,0,0,0-.37.38" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="b580f963-b2a7-441e-9385-c96355ae1703" data-name="SPLINE">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M108.55,45.78V60.31" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="fbe62864-0988-4bab-a735-1e70af8fe802" data-name="ARC">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M108.55,60.31a.37.37,0,0,0,.37.37" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="ac30a7b9-0b2c-42cc-bc56-5f2225cd6c81" data-name="SPLINE">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M108.92,60.68h1.68" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="b66c0520-c60e-4fef-afe7-0daa2a3b6ccf" data-name="ARC">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M107,60.68a.37.37,0,0,0,.38-.37" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="f50f4f06-32e4-44a0-a907-c41747f9c173" data-name="SPLINE">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M107.37,60.31V45.78" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="aa6fbd9f-4500-4564-81e0-9a74a535d895" data-name="ARC">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M107.37,45.78a.38.38,0,0,0-.38-.38" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="b95efc8c-89a8-4ba1-b492-a67310bc1043" data-name="SPLINE">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M107,45.4h-1.67" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="a78385d3-212b-4c33-9f7b-e3582dd9f35f" data-name="ARC">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M105.32,45.4a.38.38,0,0,0-.38.38" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="a173c397-5ec3-4199-8b2e-375138425c79" data-name="SPLINE">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M104.94,45.78V60.31" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="e5f98049-a2b7-4b6f-956a-5e96e89e81d6" data-name="ARC">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M104.94,60.31a.37.37,0,0,0,.38.37" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="be4dec04-de4a-4fef-8ead-631118b5fe15" data-name="SPLINE">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M105.32,60.68H107" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="aee73423-759c-45ee-8a39-1b40b6dcbe9f" data-name="ARC">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M103.39,60.68a.37.37,0,0,0,.37-.37" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="a03f78fd-07cf-4538-b7a6-73c322a9c15e" data-name="SPLINE">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M103.76,60.31V45.78" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="bb1fce54-d171-462c-b1ce-2dc5a47b4320" data-name="ARC">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M103.76,45.78a.38.38,0,0,0-.37-.38" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="a1c7a17b-eb71-42ab-9a25-7ba77980f060" data-name="SPLINE">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M103.39,45.4h-1.68" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="a8e65ad3-225c-4d06-a9b7-77399795c25a" data-name="ARC">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M101.71,45.4a.38.38,0,0,0-.38.38" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="bc52eeca-e06e-4616-8049-481547adf235" data-name="SPLINE">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M101.33,45.78V60.31" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="ffd59c1a-383d-4725-ae4a-2dba3b776443" data-name="ARC">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M101.33,60.31a.37.37,0,0,0,.38.37" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="abbe9b7c-e4ba-4c18-ada0-fe73c485439f" data-name="SPLINE">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M101.71,60.68h1.68" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="f8d2c9f7-04fb-466a-abee-3c41f6536b54" data-name="ARC">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M99.78,60.68a.36.36,0,0,0,.37-.37" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="fe705d64-7b25-4c6d-b4fb-81c3a8d468ec" data-name="SPLINE">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M100.15,60.31V45.78" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="be6f793a-55e7-485f-a396-5fd3be4b72ba" data-name="ARC">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M100.15,45.78a.37.37,0,0,0-.37-.38" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="b02bf87d-73cb-4b28-aa31-ffc66a3eea26" data-name="SPLINE">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M99.78,45.4H98.1" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="bc983356-c250-4ccc-9a3f-dffa3efc2706" data-name="ARC">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M98.1,45.4a.38.38,0,0,0-.37.38" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="bdd846fd-aebf-444c-b761-07e8a24139db" data-name="SPLINE">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M97.73,45.78V60.31" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="ac5c7b16-2d32-4653-8067-6035fbb601c9" data-name="ARC">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M97.73,60.31a.37.37,0,0,0,.37.37" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="b99ed9b3-82f6-4e89-be89-735b199fbb8d" data-name="SPLINE">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M98.1,60.68h1.68" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="e2b9a661-91d0-42c8-9e1a-7ba2d4a575f9" data-name="ARC">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M96.17,60.68a.37.37,0,0,0,.38-.37" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="e489442f-7d30-47f5-91be-1f1aa344a19b" data-name="SPLINE">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M96.55,60.31V45.78" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="ae82b58f-4464-4be6-b97a-f9dd6659ea63" data-name="ARC">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M96.55,45.78a.38.38,0,0,0-.38-.38" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="a3fddb2f-0147-4d05-86a0-4a22cf159b23" data-name="SPLINE">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M96.17,45.4H94.5" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="a5b87752-1a37-47a6-8f64-27a01f5a4aa8" data-name="ARC">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M94.5,45.4a.38.38,0,0,0-.38.38" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="a61f224b-809a-4688-907e-cdc17544c573" data-name="SPLINE">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M94.12,45.78V60.31" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="f0561988-bf3a-48a9-8768-6f97c37b19ee" data-name="ARC">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M94.12,60.31a.37.37,0,0,0,.38.37" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="a45c037b-62fa-4617-aafe-6477527d0a21" data-name="SPLINE">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M94.5,60.68h1.67" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="ea691590-2edf-4a50-b263-e67e1c0ddfa3" data-name="ARC">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M92.57,60.68a.37.37,0,0,0,.37-.37" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="b63cc689-93b0-4fcb-a342-cfa64c5b0b93" data-name="SPLINE">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M92.94,60.31V45.78" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="fb84d06c-094c-46e0-a0d7-1ab54e975391" data-name="ARC">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M92.94,45.78a.38.38,0,0,0-.37-.38" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="bb5b1ac9-0e47-428d-b716-05cae6cfe3fc" data-name="SPLINE">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M92.57,45.4H90.89" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="e8c6e0d3-5627-4a02-9501-0c0fb5317cca" data-name="ARC">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M90.89,45.4a.38.38,0,0,0-.38.38" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="fbcc6ca9-2adc-4069-87d0-5e9d5a1859bf" data-name="SPLINE">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M90.51,45.78V60.31" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="ec07de2d-3fba-4155-a605-daf852979d7b" data-name="ARC">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M90.51,60.31a.37.37,0,0,0,.38.37" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="f51579fc-9272-49ef-83dd-0296fe8182a0" data-name="SPLINE">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M90.89,60.68h1.68" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="f64c6bb9-d966-41b4-8af3-79431f8f4a72" data-name="ARC">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M89,60.68a.36.36,0,0,0,.37-.37" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="ba51eff1-12f6-437c-920c-419657ef6724" data-name="SPLINE">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M89.33,60.31V45.78" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="ae75c6c8-c434-48c3-9049-c9007ebec136" data-name="ARC">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M89.33,45.78A.37.37,0,0,0,89,45.4" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="be64ef2a-922f-46ca-bdbf-1d420f45d3fd" data-name="SPLINE">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M89,45.4H87.28" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="ab4f8094-cb75-45d7-968c-bbc3fe55806a" data-name="ARC">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M87.28,45.4a.37.37,0,0,0-.37.38" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="b353fe2c-90d0-48ac-921a-02e14b768e85" data-name="SPLINE">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M86.91,45.78V60.31" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="b3c128eb-d9d2-4c5b-9312-8999abab274b" data-name="ARC">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M86.91,60.31a.36.36,0,0,0,.37.37" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="ae135825-7f19-4ec1-9081-ece4600a2150" data-name="SPLINE">
+        <path class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" d="M87.28,60.68H89" transform="translate(0.5 0.5)"/>
+      </g>
+      <g id="b217c531-5294-41d9-b57b-9ab67b31e0be" data-name="POLYLINE">
+        <line class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" x1="98.23" y1="52.5" x2="97.05" y2="52.5"/>
+      </g>
+      <g id="bd4e3eee-0fe1-4060-add2-863bedcde14c" data-name="POLYLINE">
+        <line class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" x1="97.05" y1="54.59" x2="98.23" y2="54.59"/>
+      </g>
+      <g id="a99b1c97-dfde-40a3-ae21-7e0293a8dae7" data-name="POLYLINE">
+        <line class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" x1="93.44" y1="54.59" x2="94.62" y2="54.59"/>
+      </g>
+      <g id="b0290538-a199-436c-a96f-f4dd27689f75" data-name="POLYLINE">
+        <line class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" x1="94.62" y1="52.5" x2="93.44" y2="52.5"/>
+      </g>
+      <g id="a7c12b46-23c4-4819-92fc-bc15f0e2ca62" data-name="POLYLINE">
+        <line class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" x1="91.01" y1="52.5" x2="89.83" y2="52.5"/>
+      </g>
+      <g id="ecb3f582-438c-4857-a4b0-31b9b4b9115e" data-name="POLYLINE">
+        <polyline class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" points="87.41 52.5 86.25 52.5 86.25 54.59 87.41 54.59"/>
+      </g>
+      <g id="e2e46024-7f90-461f-9c58-0fc6733a1544" data-name="POLYLINE">
+        <line class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" x1="89.83" y1="54.59" x2="91.01" y2="54.59"/>
+      </g>
+      <g id="b03eccf8-2467-454b-9054-64cb9192fc9a" data-name="POLYLINE">
+        <line class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" x1="101.83" y1="52.5" x2="100.65" y2="52.5"/>
+      </g>
+      <g id="f0dc0a79-8438-4712-94dd-fc2655a207e2" data-name="POLYLINE">
+        <line class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" x1="100.65" y1="54.59" x2="101.83" y2="54.59"/>
+      </g>
+      <g id="f8ebdcbc-41ee-40ac-98ec-ab07b7b37562" data-name="POLYLINE">
+        <line class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" x1="104.26" y1="54.59" x2="105.44" y2="54.59"/>
+      </g>
+      <g id="a5a859d5-8828-4612-bd63-c9bd1d348f5c" data-name="POLYLINE">
+        <line class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" x1="105.44" y1="52.5" x2="104.26" y2="52.5"/>
+      </g>
+      <g id="ee970876-5d93-4829-83d3-80ef0e602f64" data-name="POLYLINE">
+        <line class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" x1="109.05" y1="52.5" x2="107.87" y2="52.5"/>
+      </g>
+      <g id="ed490efc-f60e-4ce8-a3e1-8b9b86667f05" data-name="POLYLINE">
+        <line class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" x1="107.87" y1="54.59" x2="109.05" y2="54.59"/>
+      </g>
+      <g id="b89790ef-f46a-4070-97db-a820d802a46b" data-name="POLYLINE">
+        <line class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" x1="111.47" y1="54.59" x2="112.66" y2="54.59"/>
+      </g>
+      <g id="f432c50e-f285-457d-8443-f1423cbd3fbc" data-name="POLYLINE">
+        <line class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" x1="112.66" y1="52.5" x2="111.47" y2="52.5"/>
+      </g>
+      <g id="a26f775c-4bfd-4080-b6db-0acdfdf29033" data-name="POLYLINE">
+        <line class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" x1="116.26" y1="52.5" x2="115.08" y2="52.5"/>
+      </g>
+      <g id="bf599880-20b7-4a79-9409-1950a6be5fa9" data-name="POLYLINE">
+        <line class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" x1="115.08" y1="54.59" x2="116.26" y2="54.59"/>
+      </g>
+      <g id="fa28e398-9168-40a1-bdf1-d214dacc5ede" data-name="POLYLINE">
+        <line class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" x1="118.69" y1="54.59" x2="119.87" y2="54.59"/>
+      </g>
+      <g id="e0fee473-0e95-43f3-a304-4c5597423434" data-name="POLYLINE">
+        <polyline class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" points="122.3 54.59 123.45 54.59 123.45 52.5 122.3 52.5"/>
+      </g>
+      <g id="e6fb9db6-1405-4a3c-8f89-ac4dca4d1b61" data-name="POLYLINE">
+        <line class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" x1="119.87" y1="52.5" x2="118.69" y2="52.5"/>
+      </g>
+    </g>
+    <g id="ab2bbacb-fe6e-49db-b250-d3be4bdcdae4" data-name="Below$Mirror">
+      <g id="abc1187f-c927-4e88-9e89-3b1b45e41cec" data-name="POLYLINE">
+        <rect class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" x="88.86" y="74.92" width="36.58" height="30.1" transform="translate(-31.98 99.34) rotate(-43.65)"/>
+      </g>
+      <g id="bdb218a6-fa89-4d16-b687-97a7ede90ff1" data-name="POLYLINE">
+        <rect class="b2d3ac6b-0727-4cc9-941b-36a5d24f14cb" x="91.06" y="76.22" width="32.17" height="27.48" transform="translate(-31.98 99.34) rotate(-43.65)"/>
+      </g>
+    </g>
+  </g>
+</svg>
