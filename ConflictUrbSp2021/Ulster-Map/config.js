@@ -207,6 +207,81 @@ var config = {
                     opacity: 0
                 }
             ]
+        },
+        {
+            id: '16',
+            alignment: 'right',
+            title: 'Land Use and Agricultural Districts',
+            image: '',
+            description: 'However, in order to preserve the county’s agricultural identity, New York State initiated a Certified Agricultural District Program to encourage the use of land for farming. These agricultural districts overlap with residential and commercial land uses, however, inclusion into the agricultural district program allows for legal protections of agricultural activity. Ulster County becomes a productive locus for analysis as it embodies contradictions of inequity that are present throughout the region. For example, the Hudson Valley is home to 4969 farms, yet 1 in 10 people are food insecure (Feeding New York State). Why does a food desert exist in such an agriculturally wealthy region? ',
+            location: {
+                center: [-74.164435, 41.831406],
+                zoom: 9,
+                pitch: 0.00,
+                bearing: 0.00
+            },
+            onChapterEnter: [
+                {
+                    layer: 'phl-city-limits',
+                    opacity: .45
+                }
+            ],
+            onChapterExit: [
+                {
+                    layer: 'phl-city-limits',
+                    opacity: 0
+                }
+            ]
+        },
+        {
+            id: '18',
+            alignment: 'right',
+            title: 'Food Access',
+            image: '',
+            description: 'Access to nutritious food is defined in two ways: physical access and socio-economic access. Even though physical access is widespread in new york, food insecurity is still experienced across the state. Food access, or inaccessibility, is reinforced by a highly centralized industrial food system designed to produce large amounts of food quickly and inexpensively. In urban and rural communities throughout New York State, structural inequities have contributed to neighborhoods that are predominantly low-income communities of color having less access to healthy food and experiencing greater food insecurity and food-related illnesses. Shown here is farmland and area lacking food access, which is defined as access to grocery stores within 10 miles for rural and 1 mile for urban areas',
+            location: {
+                center: [-74.164435, 41.831406],
+                zoom: 9,
+                pitch: 0.00,
+                bearing: 0.00
+            },
+            onChapterEnter: [
+                {
+                    layer: 'phl-city-limits',
+                    opacity: .45
+                }
+            ],
+            onChapterExit: [
+                {
+                    layer: 'phl-city-limits',
+                    opacity: 0
+                }
+            ]
+        },
+        {
+            id: '19',
+            alignment: 'right',
+            title: 'Kingston County',
+            image: '',
+            description: 'Kingston becomes an area to study food insecurity and infrastructure in more detail with its abundance of local farms working with food pantries on one end of the spectrum and the large national chain grocery stores on the other.',
+            location: {
+                center: [-73.998311, 41.930721],
+                zoom: 11,
+                pitch: 0.00,
+                bearing: 0.00
+            },
+            onChapterEnter: [
+                {
+                    layer: 'phl-city-limits',
+                    opacity: .45
+                }
+            ],
+            onChapterExit: [
+                {
+                    layer: 'phl-city-limits',
+                    opacity: 0
+                }
+            ]
         }
     ]
 };
