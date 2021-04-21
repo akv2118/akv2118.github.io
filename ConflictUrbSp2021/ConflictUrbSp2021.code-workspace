@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../storytelling"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../conflict_urbanism_sp2021"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "akv2118.github.io"
+	}
+}
