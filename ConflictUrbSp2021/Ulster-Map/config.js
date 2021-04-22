@@ -1,6 +1,6 @@
 var config = {
-    style: 'mapbox://styles/branigan/cjzsvonse027m1co4nkxp13b3',
-    accessToken: 'pk.eyJ1IjoibWJ4c29sdXRpb25zIiwiYSI6ImNrMm01aG9hdTBlZGwzbXQ1ZXVrNHNmejAifQ.QHQA0N6XPWddCXtvoODHZg',
+    style: 'mapbox://styles/adamvosburgh/cknsxa5vt0d8e17pbxeir9s4n',
+    accessToken: 'pk.eyJ1IjoiYWRhbXZvc2J1cmdoIiwiYSI6ImNrOGE5MDhudzAzcHozbW82cTRnY201ZWEifQ.SyIq-l5sw9Ew6mGRLgfp1w',
     showMarkers: false,
     theme: 'light',
     title: '',
@@ -22,14 +22,12 @@ var config = {
             },
             onChapterEnter: [
                 {
-                    layer: 'phl-city-limits',
-                    opacity: .45
+                    
                 }
             ],
             onChapterExit: [
                 {
-                    layer: 'phl-city-limits',
-                    opacity: 0
+                    
                 }
             ]
         },
@@ -47,13 +45,13 @@ var config = {
             },
             onChapterEnter: [
                 {
-                    layer: 'phl-city-limits',
-                    opacity: .45
+                    layer: '2019_FoodInsecurity',
+                    opacity: 1
                 }
             ],
             onChapterExit: [
                 {
-                    layer: 'phl-city-limits',
+                    layer: '2019_FoodInsecurity',
                     opacity: 0
                 }
             ]
@@ -72,13 +70,13 @@ var config = {
             },
             onChapterEnter: [
                 {
-                    layer: 'phl-city-limits',
-                    opacity: .45
+                    layer: '2020_FoodInsecurity',
+                    opacity: 1
                 }
             ],
             onChapterExit: [
                 {
-                    layer: 'phl-city-limits',
+                    layer: '2020_FoodInsecurity',
                     opacity: 0
                 }
             ]
