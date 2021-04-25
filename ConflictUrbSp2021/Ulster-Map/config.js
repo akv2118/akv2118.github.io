@@ -59,7 +59,7 @@ var config = {
             alignment: 'right',
             title: 'Ulster County Density',
             image: '',
-            description: 'In order to spatialize the demographic distribution of the county, the population per square mile census data were considered. The densest region of the county sits around Kingston, the county seat. ',
+            description: 'In order to spatialize the demographic distribution of the county, the population per square mile census data were considered. The densest region of the county sits around Kingston, the county seat. Source: US. Census',
             location: {
                 center: [-74.164435, 41.831406],
                 zoom: 9,
@@ -84,7 +84,7 @@ var config = {
             alignment: 'right',
             title: 'Ulster County Density',
             image: '',
-            description: 'To better understand the distribution of rural communities across the county, the metric of aggregation of households per census tract was determined.',
+            description: 'To better understand the distribution of rural communities across the county, the metric of aggregation of households per census tract was determined. Source: US. Census',
             location: {
                 center: [-74.164435, 41.831406],
                 zoom: 9,
@@ -109,7 +109,7 @@ var config = {
             alignment: 'right',
             title: 'Ulster County Demographics',
             image: '',
-            description: 'The demographic composition of the county is 78% white, ',
+            description: 'The demographic composition of the county is 78% white, Source: US. Census',
             location: {
                 center: [-74.164435, 41.831406],
                 zoom: 9,
@@ -134,7 +134,7 @@ var config = {
             alignment: 'right',
             title: 'Ulster County Demographics',
             image: '',
-            description: '6% Black,',
+            description: '6% Black, Source: US. Census', 
             location: {
                 center: [-74.164435, 41.831406],
                 zoom: 9,
@@ -159,7 +159,7 @@ var config = {
             alignment: 'right',
             title: 'Ulster County Demographics',
             image: '',
-            description: 'And 11% Hispanic.',
+            description: 'And 11% Hispanic. Source: US. Census',
             location: {
                 center: [-74.164435, 41.831406],
                 zoom: 9,
@@ -184,7 +184,7 @@ var config = {
             alignment: 'right',
             title: 'Land Use',
             image: '',
-            description: 'The presence and distribution of these population densities overlaps with the residential land use across the county which is distributed through its central and northern areas. A heavy presence of commercial use sits in the center of Ulster and is typically open to development.',
+            description: 'The presence and distribution of these population densities overlaps with the residential land use across the county which is distributed through its central and northern areas. A heavy presence of commercial use sits in the center of Ulster and is typically open to development. Source: US. Census',
             location: {
                 center: [-74.164435, 41.831406],
                 zoom: 9,
@@ -209,7 +209,7 @@ var config = {
             alignment: 'right',
             title: 'Land Use and Agricultural Districts',
             image: '',
-            description: 'To preserve the county’s agricultural identity, the New York State initiated a Certified Agricultural District Program to encourage the use of land farming. These agricultural districts overlap with residential and commercial land uses; however, inclusion into the agricultural district program allows for legal protections of agricultural activity. ',
+            description: 'To preserve the county’s agricultural identity, the New York State initiated a Certified Agricultural District Program to encourage the use of land farming. These agricultural districts overlap with residential and commercial land uses; however, inclusion into the agricultural district program allows for legal protections of agricultural activity. Source: US. Census',
             location: {
                 center: [-74.164435, 41.831406],
                 zoom: 9,
@@ -242,7 +242,7 @@ var config = {
             alignment: 'right',
             title: 'Food Access',
             image: '',
-            description: 'Food security in a region depends on three factors: the sufficiency of production for its people, stability of food supply, and people’s access to food. Access to nutritious food is defined in two ways: physical and socio-economic access. Even though physical access is widespread in New York, food insecurity is still rampant across the state. Food access or inaccessibility is reinforced by a highly centralized industrial food system designed to produce large amounts of food quickly and inexpensively. In urban and rural communities throughout New York State, structural inequities have contributed to food insecurity, food-related illnesses, and difficulty in accessing healthy food of low-income communities of color. Shown here is farmland and areas lacking food access, which is defined as access to grocery stores within ten miles for rural areas and one mile for urban areas.',
+            description: 'Food security in a region depends on three factors: the sufficiency of production for its people, stability of food supply, and people’s access to food. Access to nutritious food is defined in two ways: physical and socio-economic access. Even though physical access is widespread in New York, food insecurity is still rampant across the state. Food access or inaccessibility is reinforced by a highly centralized industrial food system designed to produce large amounts of food quickly and inexpensively. In urban and rural communities throughout New York State, structural inequities have contributed to food insecurity, food-related illnesses, and difficulty in accessing healthy food of low-income communities of color. Shown here is farmland and areas lacking food access, which is defined as access to grocery stores within ten miles for rural areas and one mile for urban areas. Source: US. Census',
             location: {
                 center: [-74.164435, 41.831406],
                 zoom: 9,
@@ -275,7 +275,7 @@ var config = {
             alignment: 'right',
             title: 'Kingston County',
             image: '',
-            description: 'Kingston is a generous area to study food insecurity and infrastructure in more detail with its abundance of local farms working with food pantries on one end of the spectrum and the large national chain grocery stores on the other.',
+            description: 'Kingston is a generous area to study food insecurity and infrastructure in more detail with its abundance of local farms working with food pantries on one end of the spectrum and the large national chain grocery stores on the other. Source: US. Census',
             location: {
                 center: [-74.013074, 41.933151],
                 zoom: 12,
