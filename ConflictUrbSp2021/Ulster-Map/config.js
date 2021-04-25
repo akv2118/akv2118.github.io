@@ -184,7 +184,7 @@ var config = {
             alignment: 'right',
             title: 'Land Use',
             image: '',
-            description: 'The presence and distribution of these population densities overlaps with the residential land use across the county which is distributed through its central and northern areas. A heavy presence of commercial use sits in the center of Ulster and is typically open to development. Source: US. Census',
+            description: 'The presence and distribution of these population densities overlaps with the residential land use across the county which is distributed through its central and northern areas. A heavy presence of commercial use sits in the center of Ulster and is typically open to development. Source: Ulster County Land Use',
             location: {
                 center: [-74.164435, 41.831406],
                 zoom: 9,
@@ -209,7 +209,7 @@ var config = {
             alignment: 'right',
             title: 'Land Use and Agricultural Districts',
             image: '',
-            description: 'To preserve the county’s agricultural identity, the New York State initiated a Certified Agricultural District Program to encourage the use of land farming. These agricultural districts overlap with residential and commercial land uses; however, inclusion into the agricultural district program allows for legal protections of agricultural activity. Source: US. Census',
+            description: 'To preserve the county’s agricultural identity, the New York State initiated a Certified Agricultural District Program to encourage the use of land farming. These agricultural districts overlap with residential and commercial land uses; however, inclusion into the agricultural district program allows for legal protections of agricultural activity. Source: Ulster County Land Use, USDA Agricultural Districts',
             location: {
                 center: [-74.164435, 41.831406],
                 zoom: 9,
