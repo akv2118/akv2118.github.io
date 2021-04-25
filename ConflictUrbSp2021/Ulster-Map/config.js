@@ -1,5 +1,5 @@
 var config = {
-    style: 'mapbox://styles/adamvosburgh/cknsxa5vt0d8e17pbxeir9s4n',
+    style: 'mapbox://styles/adamvosburgh/cknt8pcxl013i17le22xrtlz2',
     accessToken: 'pk.eyJ1IjoiYWRhbXZvc2J1cmdoIiwiYSI6ImNrOGE5MDhudzAzcHozbW82cTRnY201ZWEifQ.SyIq-l5sw9Ew6mGRLgfp1w',
     showMarkers: false,
     theme: 'light',
@@ -45,14 +45,12 @@ var config = {
             },
             onChapterEnter: [
                 {
-                    layer: '2019_FoodInsecurity',
-                    opacity: 1
+                    
                 }
             ],
             onChapterExit: [
                 {
-                    layer: '2019_FoodInsecurity',
-                    opacity: 0
+                    
                 }
             ]
         },
@@ -70,13 +68,13 @@ var config = {
             },
             onChapterEnter: [
                 {
-                    layer: '2020_FoodInsecurity',
+                    layer: 'population per square mile',
                     opacity: 1
                 }
             ],
             onChapterExit: [
                 {
-                    layer: '2020_FoodInsecurity',
+                    layer: 'population per square mile',
                     opacity: 0
                 }
             ]
@@ -95,13 +93,13 @@ var config = {
             },
             onChapterEnter: [
                 {
-                    layer: 'phl-city-limits',
-                    opacity: .45
+                    layer: 'households',
+                    opacity: 1
                 }
             ],
             onChapterExit: [
                 {
-                    layer: 'phl-city-limits',
+                    layer: 'households',
                     opacity: 0
                 }
             ]
@@ -120,13 +118,13 @@ var config = {
             },
             onChapterEnter: [
                 {
-                    layer: 'phl-city-limits',
-                    opacity: .45
+                    layer: 'white',
+                    opacity: 1
                 }
             ],
             onChapterExit: [
                 {
-                    layer: 'phl-city-limits',
+                    layer: 'white',
                     opacity: 0
                 }
             ]
@@ -145,13 +143,13 @@ var config = {
             },
             onChapterEnter: [
                 {
-                    layer: 'phl-city-limits',
-                    opacity: .45
+                    layer: 'black',
+                    opacity: 1
                 }
             ],
             onChapterExit: [
                 {
-                    layer: 'phl-city-limits',
+                    layer: 'black',
                     opacity: 0
                 }
             ]
@@ -161,7 +159,7 @@ var config = {
             alignment: 'right',
             title: 'Ulster County Demographics',
             image: '',
-            description: '11% Hispanic,',
+            description: 'And 11% Hispanic.',
             location: {
                 center: [-74.164435, 41.831406],
                 zoom: 9,
@@ -170,13 +168,13 @@ var config = {
             },
             onChapterEnter: [
                 {
-                    layer: 'phl-city-limits',
-                    opacity: .45
+                    layer: 'hispanic',
+                    opacity: 1
                 }
             ],
             onChapterExit: [
                 {
-                    layer: 'phl-city-limits',
+                    layer: 'hispanic',
                     opacity: 0
                 }
             ]
@@ -195,13 +193,13 @@ var config = {
             },
             onChapterEnter: [
                 {
-                    layer: 'phl-city-limits',
-                    opacity: .45
+                    layer: 'Land Use',
+                    opacity: .56
                 }
             ],
             onChapterExit: [
                 {
-                    layer: 'phl-city-limits',
+                    layer: 'Land Use',
                     opacity: 0
                 }
             ]
@@ -220,14 +218,22 @@ var config = {
             },
             onChapterEnter: [
                 {
-                    layer: 'phl-city-limits',
-                    opacity: .45
+                    layer: 'Land Use',
+                    opacity: .56
+                },
+                {
+                    layer: 'Agricultural District',
+                    opacity: 1
                 }
             ],
             onChapterExit: [
                 {
-                    layer: 'phl-city-limits',
-                    opacity: 0
+                    layer: 'Land Use',
+                    opacity: .56
+                },
+                {
+                    layer: 'Agricultural District',
+                    opacity: 1
                 }
             ]
         },
@@ -245,13 +251,21 @@ var config = {
             },
             onChapterEnter: [
                 {
-                    layer: 'phl-city-limits',
-                    opacity: .45
+                    layer: 'Land Use',
+                    opacity: .56
+                },
+                {
+                    layer: 'Agricultural District',
+                    opacity: 1
                 }
             ],
             onChapterExit: [
                 {
-                    layer: 'phl-city-limits',
+                    layer: 'Land Use',
+                    opacity: 0
+                },
+                {
+                    layer: 'Agricultural District',
                     opacity: 0
                 }
             ]
@@ -263,21 +277,21 @@ var config = {
             image: '',
             description: 'Kingston is a generous area to study food insecurity and infrastructure in more detail with its abundance of local farms working with food pantries on one end of the spectrum and the large national chain grocery stores on the other.',
             location: {
-                center: [-73.998311, 41.930721],
-                zoom: 11,
+                center: [-74.013074, 41.933151],
+                zoom: 12,
                 pitch: 0.00,
                 bearing: 0.00
             },
             onChapterEnter: [
                 {
-                    layer: 'phl-city-limits',
-                    opacity: .45
+                    layer: 'County Boundary',
+                    opacity: 0
                 }
             ],
             onChapterExit: [
                 {
-                    layer: 'phl-city-limits',
-                    opacity: 0
+                    layer: 'County Boundary',
+                    opacity: 1
                 }
             ]
         }

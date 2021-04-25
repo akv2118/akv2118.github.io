@@ -55,7 +55,38 @@ var config = {
                 }
             ],
             onChapterExit: [
-                
+                {
+                    layer: 'medium-chain',
+                    opacity: 0
+                },
+                {
+                    layer: 'medium-chain-text',
+                    opacity: 0
+                },
+                {
+                    layer: 'long-stores',
+                    opacity: 0
+                },
+                {
+                    layer: 'long-stores-text',
+                    opacity: 0
+                },
+                {
+                    layer: 'short-pantries',
+                    opacity: 0
+                },
+                {
+                    layer: 'short-pantries-text',
+                    opacity: 0
+                },
+                {
+                    layer: 'short-farms',
+                    opacity: 0
+                },
+                {
+                    layer: 'short-farms-text',
+                    opacity: 0
+                }
             ]
         },
         {
@@ -107,8 +138,38 @@ var config = {
                 
             ],
             onChapterExit: [
-                {
-                    
+            
+                    {
+                        layer: 'medium-chain',
+                        opacity: 1  
+                    },
+                    {
+                        layer: 'medium-chain-text',
+                        opacity: 1
+                    },
+                    {
+                        layer: 'long-stores',
+                        opacity: 0
+                    },
+                    {
+                        layer: 'long-stores-text',
+                        opacity: 0
+                    },
+                    {
+                        layer: 'short-pantries',
+                        opacity: 1
+                    },
+                    {
+                        layer: 'short-pantries-text',
+                        opacity: 1
+                    },
+                    {
+                        layer: 'short-farms',
+                        opacity: 1
+                    },
+                    {
+                        layer: 'short-farms-text',
+                        opacity: 1
                 }
             ]
         },
@@ -173,7 +234,49 @@ var config = {
             ],
             onChapterExit: [
                 {
-                    
+                    layer: 'long-stores',
+                    opacity: 0
+                },
+                {
+                    layer: 'long-stores-text',
+                    opacity: 0
+                },    
+                //enable next set
+                {
+                    layer: 'distribution-centers',
+                    opacity: 0
+                },
+                {
+                    layer: 'distribution-centers-text',
+                    opacity: 0
+                },
+                {
+                    layer: 'walmart',
+                    opacity: 0
+                },
+                {
+                    layer: 'walmart-text',
+                    opacity: 0
+                },
+                {
+                    layer: 'routes',
+                    opacity: 0
+                },
+                {
+                    layer: 'route-highlight',
+                    opacity: 0
+                },
+                {
+                    layer: 'route-far',
+                    opacity: 0
+                },
+                {
+                    layer: 'route-far-text1',
+                    opacity: 0
+                },
+                {
+                    layer: 'route-far-text2',
+                    opacity: 0
                 }
             ]
         },
@@ -246,8 +349,22 @@ var config = {
                 }
             ],
             onChapterExit: [
+                //enable next set
                 {
-                    
+                    layer: 'short-pantries',
+                    opacity: 0
+                },
+                {
+                    layer: 'short-pantries-text',
+                    opacity: 0
+                },
+                {
+                    layer: 'short-farms',
+                    opacity: 0
+                },
+                {
+                    layer: 'short-farms-text',
+                    opacity: 0
                 }
             ]
         },
@@ -259,7 +376,7 @@ var config = {
             description: 'A primary orchard that sells its produce at Kingston Farmers market is Maynard farms, an 8 mile drive away. Maynard farms is one of thousands of small or mid-sized hudson valley farms whose produce are left out of larger supply chains because of their lack of access to large distributors, resulting in these “short chains” that are made through direct community links as an alternative infrastructure. The result of a food system running at peak market efficiency for consolidated actors is grocery stores stocked with products not from the incredible agricultural wealth they are surrounded by, the pricing of which makes them unaffordable to over 10% of the population. ',
             location: {
                 center: [-74.013074, 41.933151],
-                zoom: 12,
+                zoom: 11.5,
                 pitch: 0.00,
                 bearing: 0.00
             },
@@ -281,6 +398,7 @@ var config = {
                     layer: 'short-farms-text',
                     opacity: 0
                 },
+                //enable next set
                 {
                     layer: 'kingston-farmers-market',
                     opacity: 1
@@ -303,8 +421,43 @@ var config = {
                 }
             ],
             onChapterExit: [
+                //disable  last set
                 {
-                    
+                    layer: 'short-pantries',
+                    opacity: 1
+                },
+                {
+                    layer: 'short-pantries-text',
+                    opacity: 1
+                },
+                {
+                    layer: 'short-farms',
+                    opacity: 1
+                },
+                {
+                    layer: 'short-farms-text',
+                    opacity: 1
+                },
+                //enable next set
+                {
+                    layer: 'kingston-farmers-market',
+                    opacity: 0
+                },                      
+                {
+                    layer: 'kingston-farmers-market-text',
+                    opacity: 0
+                },
+                { 
+                    layer: 'maynard-farm',
+                    opacity: 0
+                },
+                {
+                    layer: 'maynard-farm-text',
+                    opacity: 0
+                },
+                {
+                    layer: 'route-farm-market',
+                    opacity: 0
                 }
             ]
         }
